@@ -4,6 +4,7 @@ A TensorFlow implementation for "Deep Mask Memory Network with Semantic Dependen
 
 ## Citation
 
+```
 @inproceedings{lin2019deep,
   title     = {Deep Mask Memory Network with Semantic Dependency and Context Moment for Aspect Level Sentiment Classification},
   author    = {Lin, Peiqin and Yang, Meng and Lai, Jianhuang},
@@ -14,3 +15,4 @@ A TensorFlow implementation for "Deep Mask Memory Network with Semantic Dependen
   year      = {2019},
   month     = {7}
 }
+```
