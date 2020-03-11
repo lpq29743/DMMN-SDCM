@@ -1,21 +1,16 @@
 # DMMN-SDCM
 
-A TensorFlow implementation for "Deep Mask Memory Network with Semantic Dependency and Context Moment for Aspect Level Sentiment Classification"
+A TensorFlow implementation for "Deep Mask Memory Network with Semantic Dependency and Context Moment for Aspect Level Sentiment Classification" (IJCAI 2019)
 
-## Source Code Tree
+## Citation
 
-```
-|--- data
-
-|	|--- laptop
-
-|	|--- restaurant
-
-|--- main.py
-
-|--- model.py
-
-|--- utils.py
-
-|--- README.md
-```
+@inproceedings{lin2019deep,
+  title     = {Deep Mask Memory Network with Semantic Dependency and Context Moment for Aspect Level Sentiment Classification},
+  author    = {Lin, Peiqin and Yang, Meng and Lai, Jianhuang},
+  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
+               Artificial Intelligence, {IJCAI-19}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  pages     = {5088--5094},
+  year      = {2019},
+  month     = {7}
+}
