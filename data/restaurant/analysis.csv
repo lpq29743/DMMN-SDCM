@@ -1,0 +1,1121 @@
+,sentence,aspect,ground_truth,predict_label,result
+0,The aspect_term is top notch as well.,bread,positive,positive,True
+1,I have to say they have one of the fastest aspect_term in the city.,delivery times,positive,positive,True
+2,aspect_term is always fresh and hot- ready to eat!,Food,positive,positive,True
+3,Did I mention that the aspect_term is OUTSTANDING?,coffee,positive,positive,True
+4,"Certainly not the best sushi in New York, however, it is always fresh, and the aspect_term is very clean, sterile.",place,positive,positive,True
+5,"I trust the aspect_term at Go Sushi, it never disappoints.",people,positive,negative,False
+6,"Straight-forward, no surprises, very decent aspect_term.",Japanese food,positive,positive,True
+7,"BEST aspect_term, great aspect_term.",spicy tuna roll,positive,positive,True
+8,"BEST aspect_term, great aspect_term.",asian salad,positive,positive,True
+9,Try the aspect_term (not on aspect_term).,rose roll,positive,positive,True
+10,Try the aspect_term (not on aspect_term).,menu,neutral,neutral,True
+11,"I love the aspect_term, esp aspect_term, and the aspect_term is also VERY good.",drinks,positive,positive,True
+12,"I love the aspect_term, esp aspect_term, and the aspect_term is also VERY good.",lychee martini,positive,positive,True
+13,"I love the aspect_term, esp aspect_term, and the aspect_term is also VERY good.",food,positive,positive,True
+14,"In fact, this was not a aspect_term and was barely eatable.",Nicoise salad,negative,negative,True
+15,"While there's a decent aspect_term, it shouldn't take ten minutes to get your aspect_term and 45 for a aspect_term.",menu,positive,positive,True
+16,"While there's a decent aspect_term, it shouldn't take ten minutes to get your aspect_term and 45 for a aspect_term.",drinks,neutral,neutral,True
+17,"While there's a decent aspect_term, it shouldn't take ten minutes to get your aspect_term and 45 for a aspect_term.",dessert pizza,neutral,neutral,True
+18,"Once we sailed, the top-notch aspect_term and aspect_term sold us on a unforgettable evening.",food,positive,positive,True
+19,"Once we sailed, the top-notch aspect_term and aspect_term sold us on a unforgettable evening.",live entertainment,positive,positive,True
+20,Our aspect_term was horrible; so rude and disinterested.,waiter,negative,negative,True
+21,The aspect_term's - watered down.,sangria,negative,negative,True
+22,"aspect_term - uneventful, small.",menu,negative,negative,True
+23,Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh aspect_term and great aspect_term all at a reasonable aspect_term.,sushi,positive,positive,True
+24,Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh aspect_term and great aspect_term all at a reasonable aspect_term.,portions,positive,positive,True
+25,Anytime and everytime I find myself in the neighborhood I will go to Sushi Rose for fresh aspect_term and great aspect_term all at a reasonable aspect_term.,price,positive,positive,True
+26,Great aspect_term but the aspect_term was dreadful!,food,positive,negative,False
+27,Great aspect_term but the aspect_term was dreadful!,service,negative,negative,True
+28,The aspect_term that came out were mediocre.,portions of the food,neutral,neutral,True
+29,the two aspect_term looked like they had been sucking on lemons.,waitress's,negative,negative,True
+30,"From the beginning, we were met by friendly aspect_term, and the convienent aspect_term at Chelsea Piers made it easy for us to get to the boat.",staff memebers,positive,positive,True
+31,"From the beginning, we were met by friendly aspect_term, and the convienent aspect_term at Chelsea Piers made it easy for us to get to the boat.",parking,positive,positive,True
+32,We enjoyed ourselves thoroughly and will be going back for the aspect_term ....,desserts,positive,positive,True
+33,aspect_term are almost incredible: my personal favorite is their aspect_term.,Desserts,positive,positive,True
+34,aspect_term are almost incredible: my personal favorite is their aspect_term.,Tart of the Day,positive,positive,True
+35,"The aspect_term was extremely tasty, creatively presented and the aspect_term excellent.",food,positive,positive,True
+36,"The aspect_term was extremely tasty, creatively presented and the aspect_term excellent.",wine,positive,positive,True
+37,THE aspect_term WAS PROBABLY THE BEST I HAVE TASTED.,LASAGNA,positive,positive,True
+38,Harumi Sushi has the freshest and most delicious aspect_term in NYC.,array of sushi,positive,positive,True
+39,"I highly recommend it for not just its superb aspect_term, but also for its friendly aspect_term and aspect_term.",cuisine,positive,positive,True
+40,"I highly recommend it for not just its superb aspect_term, but also for its friendly aspect_term and aspect_term.",owners,positive,positive,True
+41,"I highly recommend it for not just its superb aspect_term, but also for its friendly aspect_term and aspect_term.",staff,positive,positive,True
+42,"If you're craving some serious aspect_term and desire a cozy aspect_term, this is quite and exquisite choice.",indian food,positive,positive,True
+43,"If you're craving some serious aspect_term and desire a cozy aspect_term, this is quite and exquisite choice.",ambiance,positive,positive,True
+44,I definitely enjoyed the aspect_term as well.,food,positive,positive,True
+45,"It was pleasantly uncrowded, the aspect_term was delightful, the aspect_term adorable, the aspect_term (from aspect_term to aspect_term) was delectable.",service,positive,positive,True
+46,"It was pleasantly uncrowded, the aspect_term was delightful, the aspect_term adorable, the aspect_term (from aspect_term to aspect_term) was delectable.",garden,positive,positive,True
+47,"It was pleasantly uncrowded, the aspect_term was delightful, the aspect_term adorable, the aspect_term (from aspect_term to aspect_term) was delectable.",food,positive,positive,True
+48,"It was pleasantly uncrowded, the aspect_term was delightful, the aspect_term adorable, the aspect_term (from aspect_term to aspect_term) was delectable.",appetizers,positive,positive,True
+49,"It was pleasantly uncrowded, the aspect_term was delightful, the aspect_term adorable, the aspect_term (from aspect_term to aspect_term) was delectable.",entrees,positive,positive,True
+50,"The aspect_term is surprisingly good, and the aspect_term is nice.",food,positive,positive,True
+51,"The aspect_term is surprisingly good, and the aspect_term is nice.",decor,positive,positive,True
+52,How pretentious and inappropriate for MJ Grill to claim that it provides power aspect_term and aspect_term!,lunch,negative,positive,False
+53,How pretentious and inappropriate for MJ Grill to claim that it provides power aspect_term and aspect_term!,dinners,negative,positive,False
+54,Two wasted aspect_term -- what a crime!,steaks,negative,negative,True
+55,The aspect_term should be a bit more friendly.,staff,negative,positive,False
+56,I think the aspect_term is good.,meatball parm,positive,positive,True
+57,"If you want good tasting, well seasoned aspect_term eat at Cabana and you can't go wrong.",latin food,positive,positive,True
+58,Definitely try the aspect_term - it was incredible.,taglierini with truffles,positive,positive,True
+59,"Also, the aspect_term is very attentive and really personable.",staff,positive,positive,True
+60,The aspect_term literally melts in your mouth!,gnocchi,positive,positive,True
+61,Had a great experience at Trio ... aspect_term was pleasant; aspect_term was tasty and large in aspect_term - I would highly recommend the aspect_term and the aspect_term.,staff,positive,positive,True
+62,Had a great experience at Trio ... aspect_term was pleasant; aspect_term was tasty and large in aspect_term - I would highly recommend the aspect_term and the aspect_term.,food,positive,positive,True
+63,Had a great experience at Trio ... aspect_term was pleasant; aspect_term was tasty and large in aspect_term - I would highly recommend the aspect_term and the aspect_term.,portion size,positive,positive,True
+64,Had a great experience at Trio ... aspect_term was pleasant; aspect_term was tasty and large in aspect_term - I would highly recommend the aspect_term and the aspect_term.,portobello/gorgonzola/sausage appetizer,positive,positive,True
+65,Had a great experience at Trio ... aspect_term was pleasant; aspect_term was tasty and large in aspect_term - I would highly recommend the aspect_term and the aspect_term.,lobster risotto,positive,positive,True
+66,"aspect_term include classics like aspect_term, aspect_term and aspect_term.",Entrees,neutral,positive,False
+67,"aspect_term include classics like aspect_term, aspect_term and aspect_term.",lasagna,neutral,positive,False
+68,"aspect_term include classics like aspect_term, aspect_term and aspect_term.",fettuccine Alfredo,neutral,positive,False
+69,"aspect_term include classics like aspect_term, aspect_term and aspect_term.",chicken parmigiana,neutral,positive,False
+70,"The aspect_term is good, the aspect_term I recommend.",food,positive,positive,True
+71,"The aspect_term is good, the aspect_term I recommend.",teriyaki,positive,positive,True
+72,aspect_term was very expensive for what you get.,Meal,negative,negative,True
+73,Try the aspect_term and the aspect_term!,Peanut Butter Sorbet,positive,positive,True
+74,Try the aspect_term and the aspect_term!,pizza with soy cheese,positive,positive,True
+75,"Good aspect_term at the right aspect_term, what more can you ask for.",food,positive,positive,True
+76,"Good aspect_term at the right aspect_term, what more can you ask for.",price,positive,positive,True
+77,"The aspect_term is top notch, the aspect_term is attentive, and the aspect_term is great.",food,positive,positive,True
+78,"The aspect_term is top notch, the aspect_term is attentive, and the aspect_term is great.",service,positive,positive,True
+79,"The aspect_term is top notch, the aspect_term is attentive, and the aspect_term is great.",atmosphere,positive,positive,True
+80,"Great aspect_term, great aspect_term, great aspect_term, and best of all GREAT aspect_term!",food,positive,positive,True
+81,"Great aspect_term, great aspect_term, great aspect_term, and best of all GREAT aspect_term!",waitstaff,positive,positive,True
+82,"Great aspect_term, great aspect_term, great aspect_term, and best of all GREAT aspect_term!",atmosphere,positive,positive,True
+83,"Great aspect_term, great aspect_term, great aspect_term, and best of all GREAT aspect_term!",beer,positive,positive,True
+84,this is still one of my most favorite restaurants in the area the aspect_term is inexpensive but very good (aspect_term was excellent) and has a great aspect_term.,food,positive,positive,True
+85,this is still one of my most favorite restaurants in the area the aspect_term is inexpensive but very good (aspect_term was excellent) and has a great aspect_term.,kimono shrimp special,positive,positive,True
+86,this is still one of my most favorite restaurants in the area the aspect_term is inexpensive but very good (aspect_term was excellent) and has a great aspect_term.,atmosphere,positive,positive,True
+87,The aspect_term is interesting and quite reasonably aspect_term.,menu,positive,positive,True
+88,The aspect_term is interesting and quite reasonably aspect_term.,priced,positive,positive,True
+89,The aspect_term was delicious and clearly fresh aspect_term were used.,food,positive,positive,True
+90,The aspect_term was delicious and clearly fresh aspect_term were used.,ingredients,positive,positive,True
+91,This made it obvious that the aspect_term wasn't cooked fresh; it was obviously made before hand and then reheated.,food,negative,negative,True
+92,aspect_term are excellent here; you can make a great (and inexpensive) aspect_term out of them.,Appetizer,positive,positive,True
+93,aspect_term are excellent here; you can make a great (and inexpensive) aspect_term out of them.,meal,positive,positive,True
+94,The aspect_term are a highlight.,spicy mussels,positive,positive,True
+95,Also get the aspect_term -- best we've ever had.,Onion Rings,positive,positive,True
+96,"However, being foodies, we were utterly disappointed with the aspect_term.",food,negative,negative,True
+97,"Huge aspect_term, great and attentive aspect_term, and pretty good aspect_term.",portions,positive,positive,True
+98,"Huge aspect_term, great and attentive aspect_term, and pretty good aspect_term.",service,positive,positive,True
+99,"Huge aspect_term, great and attentive aspect_term, and pretty good aspect_term.",prices,positive,positive,True
+100,I was highly disappointed by their aspect_term and aspect_term.,service,negative,negative,True
+101,I was highly disappointed by their aspect_term and aspect_term.,food,negative,negative,True
+102,"I complained to the aspect_term and then to the aspect_term, but the intensity of rudeness from them just went up.",waiter,negative,negative,True
+103,"I complained to the aspect_term and then to the aspect_term, but the intensity of rudeness from them just went up.",manager,negative,negative,True
+104,The aspect_term is great and the aspect_term are even better!,food,positive,positive,True
+105,The aspect_term is great and the aspect_term are even better!,milkshakes,positive,positive,True
+106,the aspect_term is amazing.,mushroom barley soup,positive,positive,True
+107,"I'm glad I did as the aspect_term was very good and the aspect_term was friendly, courteous and efficient.",food,positive,positive,True
+108,"I'm glad I did as the aspect_term was very good and the aspect_term was friendly, courteous and efficient.",staff,positive,positive,True
+109,Their aspect_term here is also absolutely delicious.,duck,positive,positive,True
+110,"While it was large and a bit noisy, the aspect_term were fantastic, and the aspect_term was superb.",drinks,positive,positive,True
+111,"While it was large and a bit noisy, the aspect_term were fantastic, and the aspect_term was superb.",food,positive,positive,True
+112,One caveat: Some of the aspect_term can be a trifle harsh.,curried casseroles,negative,negative,True
+113,The aspect_term was almost always EXCELLENT.,food,positive,positive,True
+114,I was pleasently surprised at the aspect_term.,taste,positive,negative,False
+115,"A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen aspect_term make Mare a great choice for aspect_term lovers.",cuisine,positive,positive,True
+116,"A nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen aspect_term make Mare a great choice for aspect_term lovers.",seafood,positive,positive,True
+117,I never had an aspect_term before so I gave it a shot.,orange donut,neutral,neutral,True
+118,"they really provide a relaxing, laid-back aspect_term.",atmosphere,positive,positive,True
+119,This particular location certainly uses substandard aspect_term.,meats,negative,negative,True
+120,The aspect_term was less than accomodating.,Management,negative,positive,False
+121,The aspect_term is also more laid-back and relaxed.,ambience,positive,positive,True
+122,the aspect_term are great and all the aspect_term are homemade.,teas,positive,positive,True
+123,the aspect_term are great and all the aspect_term are homemade.,sweets,positive,positive,True
+124,aspect_term and the aspect_term are the best part in there,mojitos,positive,positive,True
+125,aspect_term and the aspect_term are the best part in there,service,positive,positive,True
+126,"aspect_term, aspect_term and aspect_term, like the aspect_term, are classic successes.",Sandwiches,positive,positive,True
+127,"aspect_term, aspect_term and aspect_term, like the aspect_term, are classic successes.",burgers,positive,positive,True
+128,"aspect_term, aspect_term and aspect_term, like the aspect_term, are classic successes.",salads,positive,positive,True
+129,"aspect_term, aspect_term and aspect_term, like the aspect_term, are classic successes.",lemon-dressed cobb,positive,positive,True
+130,The aspect_term is very intimate and romantic.,design,positive,positive,True
+131,The aspect_term was wonderful and imaginative.,food,positive,positive,True
+132,The aspect_term is very sharp and they look good too.,staff,positive,positive,True
+133,The worst though was the aspect_term.,taste,negative,negative,True
+134,The aspect_term we tried was tasteless and burned and the aspect_term was way too sweet.,fajita,negative,negative,True
+135,The aspect_term we tried was tasteless and burned and the aspect_term was way too sweet.,mole sauce,negative,negative,True
+136,Stay with the aspect_term and you'll be fine.,roasted chickens,positive,positive,True
+137,"The aspect_term is warm, comfortable, artsy and sexy.",atmosphere,positive,positive,True
+138,"The aspect_term is great (big aspect_term, reasonable aspect_term) and the aspect_term are really good.",food,positive,positive,True
+139,"The aspect_term is great (big aspect_term, reasonable aspect_term) and the aspect_term are really good.",selection,positive,positive,True
+140,"The aspect_term is great (big aspect_term, reasonable aspect_term) and the aspect_term are really good.",prices,positive,positive,True
+141,"The aspect_term is great (big aspect_term, reasonable aspect_term) and the aspect_term are really good.",drinks,positive,positive,True
+142,The aspect_term melted in my mouth.,steak,positive,negative,False
+143,"The aspect_term did take a few extra minutes to come, but the cute aspect_term' jokes and friendliness made up for it.",food,neutral,negative,False
+144,"The aspect_term did take a few extra minutes to come, but the cute aspect_term' jokes and friendliness made up for it.",waiters,positive,positive,True
+145,"Most importantly, it is reasonably aspect_term.",priced,positive,positive,True
+146,"The aspect_term is excellent (I'm not used to having much choice at restaurants), and the aspect_term is great.",selection of food,positive,positive,True
+147,"The aspect_term is excellent (I'm not used to having much choice at restaurants), and the aspect_term is great.",atmosphere,positive,positive,True
+148,"Only suggestion is that you skip the aspect_term, it was overpriced and fell short on aspect_term.",dessert,negative,negative,True
+149,"Only suggestion is that you skip the aspect_term, it was overpriced and fell short on aspect_term.",taste,negative,negative,True
+150,"aspect_term was decent, but not great.",Food,positive,positive,True
+151,i dont know what some people who rave about this aspect_term are talking about.,hot dog,negative,neutral,False
+152,it is a hidden delight complete with a quaint aspect_term and good aspect_term.,bar,positive,positive,True
+153,it is a hidden delight complete with a quaint aspect_term and good aspect_term.,food,positive,positive,True
+154,The aspect_term ALWAYS look angry and even ignore their high-tipping regulars.,waiters,negative,negative,True
+155,"the aspect_term is very nice, and a welcome escape from the rest of the SI mall.",atmosphere,positive,positive,True
+156,"Yes, they're a bit more expensive then typical, but then again, so is their aspect_term.",food,positive,negative,False
+157,"I can say that the aspect_term, aspect_term and aspect_term were all fresh, tasty and the aspect_term at $9 was WELL WORTH the money.",wraps,positive,positive,True
+158,"I can say that the aspect_term, aspect_term and aspect_term were all fresh, tasty and the aspect_term at $9 was WELL WORTH the money.",burgers,positive,positive,True
+159,"I can say that the aspect_term, aspect_term and aspect_term were all fresh, tasty and the aspect_term at $9 was WELL WORTH the money.",salads,positive,positive,True
+160,"I can say that the aspect_term, aspect_term and aspect_term were all fresh, tasty and the aspect_term at $9 was WELL WORTH the money.",mango margareta,positive,positive,True
+161,"Anywhere else, the aspect_term would be 3x as high!",prices,positive,negative,False
+162,The aspect_term we experienced was friendly and good.,service,positive,positive,True
+163,Our aspect_term was friendly and it is a shame that he didnt have a supportive aspect_term to work with.,waiter,positive,positive,True
+164,Our aspect_term was friendly and it is a shame that he didnt have a supportive aspect_term to work with.,staff,negative,neutral,False
+165,The aspect_term I was seated at was uncomfortable.,folding chair,negative,negative,True
+166,aspect_term was among the best I have ever had in NYC.,Service,positive,positive,True
+167,The aspect_term was amazing.,fettucino alfredo,positive,positive,True
+168,The aspect_term was very good and I was pleasantly surprised to see so many aspect_term.,food,positive,positive,True
+169,The aspect_term was very good and I was pleasantly surprised to see so many aspect_term.,vegan options,positive,positive,True
+170,I know real aspect_term and this wasn't it.,Indian food,negative,positive,False
+171,"Be sure to try the aspect_term...aspect_term, aspect_term, aspect_term, the aspect_term, on and on and on...",Smoked Trout,positive,positive,True
+172,"Be sure to try the aspect_term...aspect_term, aspect_term, aspect_term, the aspect_term, on and on and on...",Lamb Chops,positive,positive,True
+173,"Be sure to try the aspect_term...aspect_term, aspect_term, aspect_term, the aspect_term, on and on and on...",Veal Chops,positive,positive,True
+174,"Be sure to try the aspect_term...aspect_term, aspect_term, aspect_term, the aspect_term, on and on and on...",Rabbit,positive,positive,True
+175,"Be sure to try the aspect_term...aspect_term, aspect_term, aspect_term, the aspect_term, on and on and on...",potato gratin,positive,positive,True
+176,"Even when the aspect_term is not in the house, the aspect_term and aspect_term are right on target.",chef,neutral,negative,False
+177,"Even when the aspect_term is not in the house, the aspect_term and aspect_term are right on target.",food,positive,negative,False
+178,"Even when the aspect_term is not in the house, the aspect_term and aspect_term are right on target.",service,positive,positive,True
+179,Everything from the aspect_term to the aspect_term and even the aspect_term were done well and very tasty.,eggs benedict,positive,positive,True
+180,Everything from the aspect_term to the aspect_term and even the aspect_term were done well and very tasty.,mussels,positive,positive,True
+181,Everything from the aspect_term to the aspect_term and even the aspect_term were done well and very tasty.,hamburger,positive,positive,True
+182,"The aspect_term were very professional, courteous and attentive.",waiters,positive,positive,True
+183,The aspect_term was rather over cooked and dried but the aspect_term was fine.,falafal,negative,negative,True
+184,The aspect_term was rather over cooked and dried but the aspect_term was fine.,chicken,positive,positive,True
+185,"I highly reccomend the aspect_term, it's insanely good.",grand marnier shrimp,positive,positive,True
+186,"We been there and we really enjoy the aspect_term, was areally great aspect_term, and the aspect_term was really good.",food,positive,positive,True
+187,"We been there and we really enjoy the aspect_term, was areally great aspect_term, and the aspect_term was really good.",food,positive,positive,True
+188,"We been there and we really enjoy the aspect_term, was areally great aspect_term, and the aspect_term was really good.",service,positive,positive,True
+189,aspect_term include aspect_term and aspect_term.,Desserts,neutral,neutral,True
+190,aspect_term include aspect_term and aspect_term.,flan,neutral,neutral,True
+191,aspect_term include aspect_term and aspect_term.,sopaipillas,neutral,neutral,True
+192,I was starving and the small aspect_term were driving me crazy!,portions,negative,negative,True
+193,The aspect_term was loud and inconsiderate.,wait staff,negative,negative,True
+194,"However, the aspect_term and aspect_term and dramatically lacking.",food,negative,negative,True
+195,"However, the aspect_term and aspect_term and dramatically lacking.",service,negative,negative,True
+196,The aspect_term is cut in blocks bigger than my cell phone.,sushi,negative,positive,False
+197,"The aspect_term is great, my aspect_term always arrives nice and hot.",service,positive,positive,True
+198,"The aspect_term is great, my aspect_term always arrives nice and hot.",soup,positive,positive,True
+199,It had been awhile and I forgot just how delicious aspect_term can be.,crepes,positive,positive,True
+200,Montparnasse's aspect_term -- especially the silken aspect_term and paper-thin aspect_term -- are good enough on their own to make the restaurant worth the trip.,desserts,positive,positive,True
+201,Montparnasse's aspect_term -- especially the silken aspect_term and paper-thin aspect_term -- are good enough on their own to make the restaurant worth the trip.,creme brulee,positive,positive,True
+202,Montparnasse's aspect_term -- especially the silken aspect_term and paper-thin aspect_term -- are good enough on their own to make the restaurant worth the trip.,apple tart,positive,positive,True
+203,i had a delicious aspect_term.,shrimp creole,positive,positive,True
+204,The aspect_term was real good.,chicken dinner,positive,positive,True
+205,Beware of the aspect_term not unless you want to call the fire department to douse the flames in your mouth.,chili signed food items,negative,negative,True
+206,The aspect_term is designed in a contemporary Japanese style restaurant.,decor,neutral,positive,False
+207,but the aspect_term was delicious.,food,positive,positive,True
+208,"Try the aspect_term, sizzling aspect_term and couple it with aspect_term.",ribs,positive,positive,True
+209,"Try the aspect_term, sizzling aspect_term and couple it with aspect_term.",beef,positive,positive,True
+210,"Try the aspect_term, sizzling aspect_term and couple it with aspect_term.",coconut rice,positive,positive,True
+211,The aspect_term is a personal fave.,avocado salad,positive,positive,True
+212,"And, the aspect_term are yummy!",honey BBQ rib tips,positive,positive,True
+213,The BEST aspect_term Uptown!,Chinese food,positive,positive,True
+214,aspect_term is known for bending over backwards to make everyone happy.,Service,positive,positive,True
+215,The aspect_term is very friendly.,staff,positive,positive,True
+216,aspect_term are very friendly and the aspect_term is out of this world.,Waiters,positive,positive,True
+217,aspect_term are very friendly and the aspect_term is out of this world.,pasta,positive,positive,True
+218,Great aspect_term and great aspect_term.,wine list,positive,positive,True
+219,Great aspect_term and great aspect_term.,cocktail menu,positive,positive,True
+220,The aspect_term are delicious and the aspect_term was perfect.,crab cakes,positive,positive,True
+221,The aspect_term are delicious and the aspect_term was perfect.,BBQ rib,positive,positive,True
+222,"The aspect_term is wonderful, artfully done and simply delicious.",food,positive,positive,True
+223,Tiny restaurant with very fast aspect_term.,service,positive,positive,True
+224,My husband and I have been there at least 6 times and we've always been given the highest aspect_term and often free aspect_term.,service,positive,positive,True
+225,My husband and I have been there at least 6 times and we've always been given the highest aspect_term and often free aspect_term.,desserts,positive,positive,True
+226,"A beautiful aspect_term, perfect for aspect_term and/or aspect_term.",atmosphere,positive,positive,True
+227,"A beautiful aspect_term, perfect for aspect_term and/or aspect_term.",drinks,neutral,positive,False
+228,"A beautiful aspect_term, perfect for aspect_term and/or aspect_term.",appetizers,neutral,positive,False
+229,They make the best aspect_term in New Jersey.,pizza,positive,positive,True
+230,"What a difference, the aspect_term was very comforting and the aspect_term was better than average, but what really standed out was such a dynamic and extensive aspect_term.",service,positive,positive,True
+231,"What a difference, the aspect_term was very comforting and the aspect_term was better than average, but what really standed out was such a dynamic and extensive aspect_term.",food,positive,positive,True
+232,"What a difference, the aspect_term was very comforting and the aspect_term was better than average, but what really standed out was such a dynamic and extensive aspect_term.",beer list,positive,positive,True
+233,"Frankly, the aspect_term here is something I can make better at home.",chinese food,negative,negative,True
+234,There was only one aspect_term for the whole restaurant upstairs.,waiter,neutral,neutral,True
+235,We started with the aspect_term and aspect_term and also had the aspect_term as well as the aspect_term.,scallops,neutral,neutral,True
+236,We started with the aspect_term and aspect_term and also had the aspect_term as well as the aspect_term.,asparagus,neutral,positive,False
+237,We started with the aspect_term and aspect_term and also had the aspect_term as well as the aspect_term.,soft shell crab,neutral,positive,False
+238,We started with the aspect_term and aspect_term and also had the aspect_term as well as the aspect_term.,cheese plate,neutral,neutral,True
+239,"Not to be overlooked, the aspect_term is excellent.",service,positive,positive,True
+240,this without question is one of the worst aspect_term i have ever had.,hotdogs,negative,negative,True
+241,"The aspect_term is unbelievably friendly, and I dream about their aspect_term...so good.",staff,positive,positive,True
+242,"The aspect_term is unbelievably friendly, and I dream about their aspect_term...so good.",Saag gosht,positive,positive,True
+243,I also recommend the aspect_term.,garlic knots,positive,positive,True
+244,Best aspect_term I have ever eaten.,Indian food,positive,positive,True
+245,This place has the best aspect_term.,pizza,positive,positive,True
+246,The aspect_term which is sometimes a little too heavy for my taste.,music,negative,negative,True
+247,The aspect_term is excellent and always informative without an air.,service,positive,positive,True
+248,The aspect_term and aspect_term go to great lengths to make you feel comfortable.,owner,positive,positive,True
+249,The aspect_term and aspect_term go to great lengths to make you feel comfortable.,staff,positive,positive,True
+250,The aspect_term is always fresh and yummy and the aspect_term is pretty varied.,sushi,positive,positive,True
+251,The aspect_term is always fresh and yummy and the aspect_term is pretty varied.,menu,positive,positive,True
+252,"The aspect_term was great - aspect_term was good, but the aspect_term amazed us.",food,positive,positive,True
+253,"The aspect_term was great - aspect_term was good, but the aspect_term amazed us.",sushi,positive,positive,True
+254,"The aspect_term was great - aspect_term was good, but the aspect_term amazed us.",cooked food,positive,positive,True
+255,their aspect_term are fantastic.,dinner specials,positive,positive,True
+256,"Great aspect_term, great aspect_term, nice aspect_term.",food,positive,positive,True
+257,"Great aspect_term, great aspect_term, nice aspect_term.",drinks,positive,positive,True
+258,"Great aspect_term, great aspect_term, nice aspect_term.",dining atmosphere,positive,positive,True
+259,"For the aspect_term you pay for the aspect_term here, you'd expect it to be at least on par with other Japanese restaurants.",price,negative,negative,True
+260,"For the aspect_term you pay for the aspect_term here, you'd expect it to be at least on par with other Japanese restaurants.",food,negative,neutral,False
+261,aspect_term was SMALL and below average.,Food portion,negative,negative,True
+262,Sit back in one of those comfortable aspect_term.,chairs,positive,positive,True
+263,My favs here are the aspect_term and the aspect_term...,Tacos Pastor,positive,positive,True
+264,My favs here are the aspect_term and the aspect_term...,Tostada de Tinga,positive,positive,True
+265,"The aspect_term and the aspect_term are really nice and the aspect_term is very comfy and laid-back, all the while being trendy.",bartenders,positive,positive,True
+266,"The aspect_term and the aspect_term are really nice and the aspect_term is very comfy and laid-back, all the while being trendy.",managers,positive,positive,True
+267,"The aspect_term and the aspect_term are really nice and the aspect_term is very comfy and laid-back, all the while being trendy.",decor,positive,positive,True
+268,"For a savory take on the aspect_term, try the aspect_term.",soup and sandwich meal,positive,positive,True
+269,"For a savory take on the aspect_term, try the aspect_term.",hot and sour soup,positive,positive,True
+270,"This bar has it all - great aspect_term, cool aspect_term, excellent aspect_term and delicious aspect_term.",drinks,positive,positive,True
+271,"This bar has it all - great aspect_term, cool aspect_term, excellent aspect_term and delicious aspect_term.",atmosphere,positive,positive,True
+272,"This bar has it all - great aspect_term, cool aspect_term, excellent aspect_term and delicious aspect_term.",service,positive,positive,True
+273,"This bar has it all - great aspect_term, cool aspect_term, excellent aspect_term and delicious aspect_term.",food,positive,positive,True
+274,"Also, the aspect_term is divine.",chick peas with shrimp (appetizer),positive,positive,True
+275,"Finally, I got sick of the bad aspect_term, obnoxious smirks, and snotty back talk.",service,negative,negative,True
+276,We ordered aspect_term which was perfectly cooked and tasted awesome.,lamb,positive,positive,True
+277,i especially like their aspect_term.,soft shell crab sandwich with fries,positive,positive,True
+278,"if you're looking for authentic aspect_term, look no further.",hong kong-style food,positive,positive,True
+279,good aspect_term good aspect_term that's it.,food,positive,positive,True
+280,good aspect_term good aspect_term that's it.,wine,positive,positive,True
+281,The aspect_term was extremely friendly and pleasant.,staff,positive,positive,True
+282,"While their aspect_term is delicious, their aspect_term is out of this world.",kitchen food,positive,positive,True
+283,"While their aspect_term is delicious, their aspect_term is out of this world.",Sushi,positive,positive,True
+284,"everything is scrumptious, from the excellent aspect_term by cute aspect_term, to the extremely lush aspect_term.",service,positive,positive,True
+285,"everything is scrumptious, from the excellent aspect_term by cute aspect_term, to the extremely lush aspect_term.",waitresses,positive,positive,True
+286,"everything is scrumptious, from the excellent aspect_term by cute aspect_term, to the extremely lush aspect_term.",atmosphere,positive,positive,True
+287,"It's traditional, simple aspect_term.",italian food,positive,positive,True
+288,"The aspect_term is all-around good, with the aspect_term usually excellent and the aspect_term not quite on the same level.",food,positive,positive,True
+289,"The aspect_term is all-around good, with the aspect_term usually excellent and the aspect_term not quite on the same level.",rolls,positive,positive,True
+290,"The aspect_term is all-around good, with the aspect_term usually excellent and the aspect_term not quite on the same level.",sushi/sashimi,neutral,positive,False
+291,(The aspect_term is cut a little thinly.,sashimi,negative,negative,True
+292,Could have had better for 1/3 the aspect_term in Chinatown.,price,negative,negative,True
+293,"In addition to great aspect_term, DOTP has wonderful aspect_term that feature, in addition to great things like aspect_term and aspect_term, a delicious NJ-based aspect_term know to us Jersey girls and boys as aspect_term.",hot dogs,positive,positive,True
+294,"In addition to great aspect_term, DOTP has wonderful aspect_term that feature, in addition to great things like aspect_term and aspect_term, a delicious NJ-based aspect_term know to us Jersey girls and boys as aspect_term.",breakfast sandwiches,positive,positive,True
+295,"In addition to great aspect_term, DOTP has wonderful aspect_term that feature, in addition to great things like aspect_term and aspect_term, a delicious NJ-based aspect_term know to us Jersey girls and boys as aspect_term.",tator tots,positive,positive,True
+296,"In addition to great aspect_term, DOTP has wonderful aspect_term that feature, in addition to great things like aspect_term and aspect_term, a delicious NJ-based aspect_term know to us Jersey girls and boys as aspect_term.",English muffins,positive,positive,True
+297,"In addition to great aspect_term, DOTP has wonderful aspect_term that feature, in addition to great things like aspect_term and aspect_term, a delicious NJ-based aspect_term know to us Jersey girls and boys as aspect_term.",pork product,positive,positive,True
+298,"In addition to great aspect_term, DOTP has wonderful aspect_term that feature, in addition to great things like aspect_term and aspect_term, a delicious NJ-based aspect_term know to us Jersey girls and boys as aspect_term.",Taylor ham,positive,positive,True
+299,"Well, it happened because of a graceless aspect_term and a rude aspect_term who had us aspect_term 20 minutes for aspect_term, and then tells us to chill out.",manager,negative,negative,True
+300,"Well, it happened because of a graceless aspect_term and a rude aspect_term who had us aspect_term 20 minutes for aspect_term, and then tells us to chill out.",bartender,negative,negative,True
+301,"Well, it happened because of a graceless aspect_term and a rude aspect_term who had us aspect_term 20 minutes for aspect_term, and then tells us to chill out.",waiting,negative,neutral,False
+302,"Well, it happened because of a graceless aspect_term and a rude aspect_term who had us aspect_term 20 minutes for aspect_term, and then tells us to chill out.",drinks,neutral,neutral,True
+303,"Not only is the aspect_term great, but forming conversation around a table is so easy beacuse the aspect_term can be both romantic and comfortable.",service,positive,positive,True
+304,"Not only is the aspect_term great, but forming conversation around a table is so easy beacuse the aspect_term can be both romantic and comfortable.",atmosphere,positive,positive,True
+305,"When the aspect_term arrived it was blazing with aspect_term, definitely not edible by a human.",dish,negative,negative,True
+306,"When the aspect_term arrived it was blazing with aspect_term, definitely not edible by a human.",green chillis,negative,negative,True
+307,The absolute worst aspect_term I've ever experienced and the aspect_term was below average (when they actually gave people the aspect_term they ordered).,service,negative,negative,True
+308,The absolute worst aspect_term I've ever experienced and the aspect_term was below average (when they actually gave people the aspect_term they ordered).,food,negative,negative,True
+309,The absolute worst aspect_term I've ever experienced and the aspect_term was below average (when they actually gave people the aspect_term they ordered).,meals,neutral,negative,False
+310,It's about $7 for aspect_term and they have aspect_term or aspect_term.,lunch,neutral,neutral,True
+311,It's about $7 for aspect_term and they have aspect_term or aspect_term.,take-out,neutral,neutral,True
+312,It's about $7 for aspect_term and they have aspect_term or aspect_term.,dine-in,neutral,neutral,True
+313,Be sure to accompany your aspect_term with one of their aspect_term.,food,neutral,neutral,True
+314,Be sure to accompany your aspect_term with one of their aspect_term.,fresh juice concoctions,positive,neutral,False
+315,The aspect_term is great and the aspect_term are reasonable.,food,positive,positive,True
+316,The aspect_term is great and the aspect_term are reasonable.,prices,positive,positive,True
+317,"The aspect_term is clean, and if you like aspect_term, then this is the place to be!",place,positive,positive,True
+318,"The aspect_term is clean, and if you like aspect_term, then this is the place to be!",soul food,positive,negative,False
+319,I had aspect_term and a aspect_term.,roast chicken,neutral,neutral,True
+320,I had aspect_term and a aspect_term.,salad,neutral,neutral,True
+321,They have a very good aspect_term and good aspect_term as well.,chicken with avocado,positive,positive,True
+322,They have a very good aspect_term and good aspect_term as well.,tuna,positive,positive,True
+323,But the aspect_term were terrible.,meals,negative,negative,True
+324,My aspect_term was completely dried out and on the cold side and the aspect_term was not very flavorful.,chicken,negative,negative,True
+325,My aspect_term was completely dried out and on the cold side and the aspect_term was not very flavorful.,sauce,negative,negative,True
+326,aspect_term - have you ever in your life heard of anything so ridiculously wonderful?,Malted Milk Ball Gelato,positive,positive,True
+327,Way too much money for such a terrible aspect_term.,meal,negative,negative,True
+328,"However, the aspect_term is absolutely horrible.",service,negative,negative,True
+329,A con was the slow aspect_term.,bar service,negative,negative,True
+330,aspect_term was also to die for!,Dessert,positive,positive,True
+331,"BTW, the aspect_term is very good .",service,positive,positive,True
+332,It's eaten with aspect_term and aspect_term.,black vinegar,neutral,neutral,True
+333,It's eaten with aspect_term and aspect_term.,shredded ginger,neutral,neutral,True
+334,"The unattractive aspect_term made me want to gag, the aspect_term was overpriced, there was the most awful aspect_term performing-and my aspect_term looked like it might crawl off the plate.",lighting,negative,negative,True
+335,"The unattractive aspect_term made me want to gag, the aspect_term was overpriced, there was the most awful aspect_term performing-and my aspect_term looked like it might crawl off the plate.",food,negative,negative,True
+336,"The unattractive aspect_term made me want to gag, the aspect_term was overpriced, there was the most awful aspect_term performing-and my aspect_term looked like it might crawl off the plate.",disco pop duo,negative,negative,True
+337,"The unattractive aspect_term made me want to gag, the aspect_term was overpriced, there was the most awful aspect_term performing-and my aspect_term looked like it might crawl off the plate.",escargot,negative,negative,True
+338,it is a cozy aspect_term to go with a couple of friends.,place,positive,positive,True
+339,"The aspect_term is always great, and the aspect_term walks around to make sure you enjoy.",service,positive,positive,True
+340,"The aspect_term is always great, and the aspect_term walks around to make sure you enjoy.",owner,positive,positive,True
+341,because the aspect_term need SEVERE ATTITUE ADJUSTMENTS.,waiters,negative,negative,True
+342,the aspect_term is delicious and highly recommended.,food,positive,positive,True
+343,"When it came time to take the order the aspect_term gave us a hard time, walked away then came back with a paper and pen for us to write down what we wanted...excuse me but isn't that his job???",waiter,negative,negative,True
+344,Dieters stick to aspect_term or indulge in aspect_term.,salads,positive,neutral,False
+345,Dieters stick to aspect_term or indulge in aspect_term.,vegetarian platters,positive,positive,True
+346,So for a filling and healthy aspect_term give it a go.,meal,positive,positive,True
+347,"Since I cook for a living, I'm very fussy about the aspect_term I eat in restaurants.",food,neutral,positive,False
+348,The aspect_term was outstanding.,service,positive,positive,True
+349,My friends and I stop here for aspect_term before hitting the Kips Bay movie theater.,pizza,neutral,positive,False
+350,We always enjoy the aspect_term.,pizza,positive,positive,True
+351,The aspect_term is pretty good.,service,positive,positive,True
+352,"Yum, the aspect_term is great here.",chicken,positive,positive,True
+353,"The aspect_term here was great, a treat from beginning to end.",food,positive,positive,True
+354,The aspect_term and aspect_term are personable and caring.,host (owner),positive,positive,True
+355,The aspect_term and aspect_term are personable and caring.,servers,positive,positive,True
+356,"It's just everything...the aspect_term, the aspect_term...the incrediby kind and gracious aspect_term.",food,positive,positive,True
+357,"It's just everything...the aspect_term, the aspect_term...the incrediby kind and gracious aspect_term.",atmosphere,positive,positive,True
+358,"It's just everything...the aspect_term, the aspect_term...the incrediby kind and gracious aspect_term.",hostess,positive,positive,True
+359,The aspect_term is very good and the aspect_term is great.,food,positive,positive,True
+360,The aspect_term is very good and the aspect_term is great.,service,positive,positive,True
+361,I usually get one the aspect_term.,Vietnamese Beef Noodle Soup,neutral,neutral,True
+362,We were wondering why they were there to make our aspect_term miserable?,dining experience,negative,negative,True
+363,"This place has the best aspect_term in New York, hands down.",Indian food,positive,positive,True
+364,The aspect_term are very friendly and helpful and if you frequent they will remember you.,waiters,positive,positive,True
+365,Intimate but charming aspect_term with extremely friendly and attentive aspect_term.,interior,positive,positive,True
+366,Intimate but charming aspect_term with extremely friendly and attentive aspect_term.,service,positive,positive,True
+367,The aspect_term was as creative as the aspect_term and both worked.,food,positive,positive,True
+368,The aspect_term was as creative as the aspect_term and both worked.,decor,positive,positive,True
+369,"The aspect_term is great, with a good aspect_term, and everything that I have tried is absolutely delicious.",menu,positive,positive,True
+370,"The aspect_term is great, with a good aspect_term, and everything that I have tried is absolutely delicious.",selection,positive,positive,True
+371,The aspect_term is zesty and flavorful and the aspect_term is nice and crispy.,sauce,positive,positive,True
+372,The aspect_term is zesty and flavorful and the aspect_term is nice and crispy.,crust,positive,positive,True
+373,This place has the best aspect_term in the city.,sushi,positive,positive,True
+374,They have an excellent aspect_term (the aspect_term are really great).,selection,positive,positive,True
+375,They have an excellent aspect_term (the aspect_term are really great).,rolls with crab,positive,positive,True
+376,"Everyone who works there (the aspect_term, the aspect_term, the aspect_term) is so helpful.",host,positive,positive,True
+377,"Everyone who works there (the aspect_term, the aspect_term, the aspect_term) is so helpful.",bartender,positive,positive,True
+378,"Everyone who works there (the aspect_term, the aspect_term, the aspect_term) is so helpful.",servers,positive,positive,True
+379,And the aspect_term is fantastic.,food,positive,positive,True
+380,Favourites include: aspect_term and the aspect_term.,potato spinach gnocchi,positive,positive,True
+381,Favourites include: aspect_term and the aspect_term.,lamb,positive,positive,True
+382,"Unfortunately, we chose this spot for aspect_term as we had done a lot of walking and ended up at the South St Seaport.",lunch,neutral,neutral,True
+383,But regulars know that the aspect_term are the real star here.,sandwiches,positive,negative,False
+384,The skillfully chosen aspect_term paired with quality aspect_term provides the perfect Iberian ending.,Portuguese cheese cart,positive,positive,True
+385,The skillfully chosen aspect_term paired with quality aspect_term provides the perfect Iberian ending.,port,positive,positive,True
+386,My friend had a aspect_term and I had these wonderful aspect_term.,burger,neutral,positive,False
+387,My friend had a aspect_term and I had these wonderful aspect_term.,blueberry pancakes,positive,positive,True
+388,We were so happy with our aspect_term and were even more thrilled when we saw the aspect_term.,food,positive,positive,True
+389,We were so happy with our aspect_term and were even more thrilled when we saw the aspect_term.,bill,positive,neutral,False
+390,"All aspect_term are so fresh you'd think they had their own vegetable garden and the aspect_term is so perfect, that one actually thinks of how it was made.",toppings,positive,positive,True
+391,"All aspect_term are so fresh you'd think they had their own vegetable garden and the aspect_term is so perfect, that one actually thinks of how it was made.",crust,positive,positive,True
+392,We've always gotten amazing aspect_term and we love the aspect_term.,service,positive,positive,True
+393,We've always gotten amazing aspect_term and we love the aspect_term.,food,positive,positive,True
+394,"The aspect_term is solicitous and friendly and always seems glad to see us, and the aspect_term is wonderful, if not stunningly creative.",waitstaff,positive,positive,True
+395,"The aspect_term is solicitous and friendly and always seems glad to see us, and the aspect_term is wonderful, if not stunningly creative.",food,positive,positive,True
+396,I'm in love with the aspect_term!,lobster ravioli,positive,positive,True
+397,We came across this restaurant by accident while at a DUMBO art festival and thoroughly enjoyed our aspect_term.,meal,positive,positive,True
+398,"aspect_term is excellent, no aspect_term, and you get a lot for the aspect_term.",Service,positive,positive,True
+399,"aspect_term is excellent, no aspect_term, and you get a lot for the aspect_term.",wait,positive,positive,True
+400,"aspect_term is excellent, no aspect_term, and you get a lot for the aspect_term.",price,positive,neutral,False
+401,I thought the aspect_term isn't cheap at all compared to Chinatown.,food,negative,neutral,False
+402,aspect_term is a better deal than overpriced aspect_term.,Coffee,positive,positive,True
+403,aspect_term is a better deal than overpriced aspect_term.,Cosi sandwiches,negative,negative,True
+404,We didn't know if we should order a aspect_term or leave?,drink,neutral,negative,False
+405,") It's not the best Japanese restaurant in the East Village, but it's a pretty solid one for its modest aspect_term, and worth repeat visits.",prices,positive,positive,True
+406,The aspect_term is so good and so popular that aspect_term can really be a nightmare.,food,positive,positive,True
+407,The aspect_term is so good and so popular that aspect_term can really be a nightmare.,waiting,negative,negative,True
+408,First walking in the aspect_term seemed to have great aspect_term.,place,positive,positive,True
+409,First walking in the aspect_term seemed to have great aspect_term.,ambience,positive,positive,True
+410,I went to Kitchenette this weekend for aspect_term.,brunch,neutral,neutral,True
+411,Even for two very hungry people there is plenty of aspect_term left to be taken home (it reheats really well also).,food,positive,positive,True
+412,"Then they somehow made a dry and burnt aspect_term, around a raw and cold inside.",crust,negative,negative,True
+413,"It's just good aspect_term, nothing more and that's all we want!",food,positive,positive,True
+414,Average aspect_term thats been courted by a LOT of hype.,cake,negative,negative,True
+415,My wife and I recently visited the bistro for aspect_term and had a wonderful experience.,dinner,neutral,positive,False
+416,THE aspect_term IS PERFECT TOO  NOTHING WRONG IN THIS ITALIAN/FRENCH RESTAURANT,SERVICE,positive,positive,True
+417,The $72 aspect_term had to be sent back because it was not cooked to order.,Delmonico steak,negative,negative,True
+418,Everytime I go there I can't pick anything to eat and not because the aspect_term is filled with great things to eat.,menu,negative,positive,False
+419,Half a aspect_term with a mountain of aspect_term and aspect_term for $6.25.,chicken,neutral,positive,False
+420,Half a aspect_term with a mountain of aspect_term and aspect_term for $6.25.,rice,neutral,positive,False
+421,Half a aspect_term with a mountain of aspect_term and aspect_term for $6.25.,beans,neutral,positive,False
+422,"The aspect_term is really fast and friendly, and the aspect_term is great.",service,positive,positive,True
+423,"The aspect_term is really fast and friendly, and the aspect_term is great.",value,positive,positive,True
+424,We were very impressed with the aspect_term and aspect_term.,food,positive,positive,True
+425,We were very impressed with the aspect_term and aspect_term.,value,positive,positive,True
+426,You must try the aspect_term!,garlic soup,positive,positive,True
+427,"Casablanca servces delicious aspect_term, aspect_term, aspect_term and other aspect_term, which are all very inexpensive.",falafel,positive,positive,True
+428,"Casablanca servces delicious aspect_term, aspect_term, aspect_term and other aspect_term, which are all very inexpensive.",tabouleh,positive,positive,True
+429,"Casablanca servces delicious aspect_term, aspect_term, aspect_term and other aspect_term, which are all very inexpensive.",humus,positive,positive,True
+430,"Casablanca servces delicious aspect_term, aspect_term, aspect_term and other aspect_term, which are all very inexpensive.",Mediterranean delights,positive,positive,True
+431,"The aspect_term are made fresh, crispy, and ready to serve.",pizza's,positive,positive,True
+432,aspect_term is accomodating make sure you are satified.,Staff,positive,positive,True
+433,aspect_term Waldy's always measures up.,Chef,positive,positive,True
+434,Reasonably aspect_term with very fresh aspect_term.,priced,positive,positive,True
+435,Reasonably aspect_term with very fresh aspect_term.,sushi,positive,positive,True
+436,Go for the aspect_term.,Seafood Paella for two,positive,positive,True
+437,All of the aspect_term are good and the aspect_term is very good.,apetizers,positive,positive,True
+438,All of the aspect_term are good and the aspect_term is very good.,Sangria,positive,positive,True
+439,"The one positive thing I can say is that the aspect_term was prompt, we got seated right away and the aspect_term was very friendly.",service,positive,positive,True
+440,"The one positive thing I can say is that the aspect_term was prompt, we got seated right away and the aspect_term was very friendly.",server,positive,positive,True
+441,The aspect_term greeted me warmly at the door and I was seated promptly and the aspect_term was excellent.,staff,positive,positive,True
+442,The aspect_term greeted me warmly at the door and I was seated promptly and the aspect_term was excellent.,food,positive,positive,True
+443,aspect_term is usually pretty good.,Service,positive,positive,True
+444,aspect_term and aspect_term was quite rude.,Host,negative,negative,True
+445,aspect_term and aspect_term was quite rude.,Hostess,negative,negative,True
+446,"the aspect_term is very friendly, if your not rude or picky.......our aspect_term at Leon last weekend was great -.",wait staff,positive,positive,True
+447,"the aspect_term is very friendly, if your not rude or picky.......our aspect_term at Leon last weekend was great -.",meal,positive,positive,True
+448,I recommend any of their aspect_term......,salmon dishes,positive,positive,True
+449,The aspect_term was sweet and luscious.,foie gras,positive,positive,True
+450,"The aspect_term, which changes seasonally, shows both regional and international influences.",menu,neutral,positive,False
+451,but their aspect_term was YUMMY!,mac cheese,positive,positive,True
+452,their aspect_term had something for everyone.,brunch menu,positive,neutral,False
+453,aspect_term had a nice voice + she made us all get up to dance to shake some cals to eat some more.,jazz singer,positive,positive,True
+454,They have very quick aspect_term which is great when you don't have much time.,service,positive,positive,True
+455,"The aspect_term is average: aspect_term, aspect_term, aspect_term, aspect_term, etc.",food,neutral,neutral,True
+456,"The aspect_term is average: aspect_term, aspect_term, aspect_term, aspect_term, etc.",breakfast food,neutral,neutral,True
+457,"The aspect_term is average: aspect_term, aspect_term, aspect_term, aspect_term, etc.",soups,neutral,neutral,True
+458,"The aspect_term is average: aspect_term, aspect_term, aspect_term, aspect_term, etc.",salads,neutral,neutral,True
+459,"The aspect_term is average: aspect_term, aspect_term, aspect_term, aspect_term, etc.",sandwiches,neutral,neutral,True
+460,I WAS HIGHLY DISAPPOINTED BY THE aspect_term.,FOOD,negative,negative,True
+461,"THE aspect_term THEY SERVE HAS NEVER SEEN AN OVEN,THE aspect_term ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY aspect_term.",BANANA PUDDING,negative,negative,True
+462,"THE aspect_term THEY SERVE HAS NEVER SEEN AN OVEN,THE aspect_term ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY aspect_term.",CRABCAKES,negative,negative,True
+463,"THE aspect_term THEY SERVE HAS NEVER SEEN AN OVEN,THE aspect_term ARE WAY OVER SALTED AND DON'T GET ME STARTED ON THE VERY GREASY aspect_term.",MAC AND CHEESE,negative,negative,True
+464,"The aspect_term is arrogant, the aspect_term are way high for Brooklyn.",staff,negative,negative,True
+465,"The aspect_term is arrogant, the aspect_term are way high for Brooklyn.",prices,negative,negative,True
+466,the aspect_term is prompt friendly.,service,positive,positive,True
+467,This is literally a hot spot when it comes to the aspect_term.,food,positive,positive,True
+468,The aspect_term is very cool and chill...,downstairs bar scene,positive,positive,True
+469,"The aspect_term was definitely good, but when all was said and done, I just couldn't justify it for the aspect_term (including 2 aspect_term, $100/person)...",food,positive,positive,True
+470,"The aspect_term was definitely good, but when all was said and done, I just couldn't justify it for the aspect_term (including 2 aspect_term, $100/person)...",price,negative,neutral,False
+471,"The aspect_term was definitely good, but when all was said and done, I just couldn't justify it for the aspect_term (including 2 aspect_term, $100/person)...",drinks,neutral,neutral,True
+472,I've come here for aspect_term as well as for a friend's birthday and I always enjoy myself.,casual lunches,neutral,positive,False
+473,If you are a aspect_term fan you will not be disappointed.,Tequila,positive,negative,False
+474,"Great aspect_term too, something like 50 aspect_term.",beer selection,positive,positive,True
+475,"Great aspect_term too, something like 50 aspect_term.",beers,neutral,neutral,True
+476,Not to sound too negative but be wary of the aspect_term.,delivary,negative,negative,True
+477,"I found the aspect_term to be just as good as its aspect_term, Da Silvano, just much less expensive.",food,positive,positive,True
+478,"I found the aspect_term to be just as good as its aspect_term, Da Silvano, just much less expensive.",owner,positive,positive,True
+479,They have aspect_term of all kinds -- I recommend the aspect_term -- yum!,homemade pastas,positive,positive,True
+480,They have aspect_term of all kinds -- I recommend the aspect_term -- yum!,gnocchi,positive,positive,True
+481,"My aspect_term was burnt, and infused totally in a burnt aspect_term.",vegetable risotto,negative,negative,True
+482,"My aspect_term was burnt, and infused totally in a burnt aspect_term.",flavor,negative,negative,True
+483,The main draw of this place is the aspect_term.,price,positive,positive,True
+484,How can hope to stay in business with aspect_term like this?,service,negative,positive,False
+485,"But aspect_term here is never disappointing, even if the aspect_term are a bit over the top.",dinner,positive,negative,False
+486,"But aspect_term here is never disappointing, even if the aspect_term are a bit over the top.",prices,negative,negative,True
+487,"Not only did they have amazing, aspect_term, aspect_term, aspect_term etc, but their aspect_term are out of this world!",sandwiches,positive,positive,True
+488,"Not only did they have amazing, aspect_term, aspect_term, aspect_term etc, but their aspect_term are out of this world!",soup,positive,positive,True
+489,"Not only did they have amazing, aspect_term, aspect_term, aspect_term etc, but their aspect_term are out of this world!",pizza,positive,positive,True
+490,"Not only did they have amazing, aspect_term, aspect_term, aspect_term etc, but their aspect_term are out of this world!",homemade sorbets,positive,positive,True
+491,"the aspect_term, the unbelievable aspect_term, and thee most amazing aspect_term.",homemade Guacamole,positive,positive,True
+492,"the aspect_term, the unbelievable aspect_term, and thee most amazing aspect_term.",entree,positive,positive,True
+493,"the aspect_term, the unbelievable aspect_term, and thee most amazing aspect_term.",deserts,positive,positive,True
+494,The aspect_term is reasonably aspect_term and fresh.,sushi,positive,positive,True
+495,The aspect_term is reasonably aspect_term and fresh.,priced,positive,positive,True
+496,Save room for aspect_term - they're to die for.,deserts,positive,positive,True
+497,Best things to order are from the aspect_term (aspect_term and aspect_term).,grill,positive,positive,True
+498,Best things to order are from the aspect_term (aspect_term and aspect_term).,Churrasco,positive,positive,True
+499,Best things to order are from the aspect_term (aspect_term and aspect_term).,Ribs,positive,positive,True
+500,The aspect_term are great - cheap and aspect_term in a cozy aspect_term.,traditional Italian items,positive,positive,True
+501,The aspect_term are great - cheap and aspect_term in a cozy aspect_term.,served,positive,positive,True
+502,The aspect_term are great - cheap and aspect_term in a cozy aspect_term.,setting,positive,positive,True
+503,Whether your choose the aspect_term or the aspect_term you are sure to be extremely happy.,iced blended mocha,positive,positive,True
+504,Whether your choose the aspect_term or the aspect_term you are sure to be extremely happy.,hot white mocha,positive,positive,True
+505,last Tuesday for a aspect_term with a friend.,late lunch,neutral,neutral,True
+506,Another friend had to ask 3 times for aspect_term.,parmesan cheese,neutral,neutral,True
+507,"Our aspect_term had apparently never tried any of the aspect_term, and there was no one to recommend any aspect_term.",waitress,negative,negative,True
+508,"Our aspect_term had apparently never tried any of the aspect_term, and there was no one to recommend any aspect_term.",food,neutral,negative,False
+509,"Our aspect_term had apparently never tried any of the aspect_term, and there was no one to recommend any aspect_term.",wine,neutral,neutral,True
+510,"The aspect_term was a bit slow and the aspect_term are a bit small so if you are hungry and in a rush, this is not the place for you.",service,negative,negative,True
+511,"The aspect_term was a bit slow and the aspect_term are a bit small so if you are hungry and in a rush, this is not the place for you.",portions,negative,negative,True
+512,The unfortunate lady next to us thought she had ordered a aspect_term (including asking for aspect_term) and was instead given a aspect_term.,salad,neutral,neutral,True
+513,The unfortunate lady next to us thought she had ordered a aspect_term (including asking for aspect_term) and was instead given a aspect_term.,salad dressing,neutral,neutral,True
+514,The unfortunate lady next to us thought she had ordered a aspect_term (including asking for aspect_term) and was instead given a aspect_term.,quesedilla,neutral,neutral,True
+515,"El Nidos one of the best restaurants in New York which I've ever been to, has a great variety of tasty, mouth watering aspect_term.",pizza's,positive,positive,True
+516,"The aspect_term was pretty poor all around, the aspect_term was well below average relative to the aspect_term, and outside there is a crazy bum who harasses every customer who leaves the place.",service,negative,negative,True
+517,"The aspect_term was pretty poor all around, the aspect_term was well below average relative to the aspect_term, and outside there is a crazy bum who harasses every customer who leaves the place.",food,negative,negative,True
+518,"The aspect_term was pretty poor all around, the aspect_term was well below average relative to the aspect_term, and outside there is a crazy bum who harasses every customer who leaves the place.",cost,negative,negative,True
+519,Although I moved uptown I try to stop in as often as possible for the GREAT cheap aspect_term and to pay the friendly aspect_term a visit.,food,positive,positive,True
+520,Although I moved uptown I try to stop in as often as possible for the GREAT cheap aspect_term and to pay the friendly aspect_term a visit.,staff,positive,positive,True
+521,I had to wait for my friend at the aspect_term for a few minutes,bar,neutral,neutral,True
+522,"aspect_term Vincenzo, always there if you need him, is a real talent and a real Roman.",Chef,positive,positive,True
+523,"If you're looking to taste some great aspect_term and want good aspect_term, definitely visit Curry Leaf.",Indian food,positive,positive,True
+524,"If you're looking to taste some great aspect_term and want good aspect_term, definitely visit Curry Leaf.",service,positive,positive,True
+525,"You must try aspect_term or aspect_term; aspect_term - all good; and aspect_term is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",Odessa stew,positive,positive,True
+526,"You must try aspect_term or aspect_term; aspect_term - all good; and aspect_term is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",Rabbit stew,positive,positive,True
+527,"You must try aspect_term or aspect_term; aspect_term - all good; and aspect_term is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",salads,positive,positive,True
+528,"You must try aspect_term or aspect_term; aspect_term - all good; and aspect_term is soo refreshing during the hot summer day (they make it the way my mom does, reminds me of home a lot).",kompot,positive,positive,True
+529,My daughter and I left feeling satisfied (not stuffed) and it felt good to know we had a healthy aspect_term.,lunch,positive,positive,True
+530,"When she complained, the aspect_term said, Sorry.",waitress,neutral,negative,False
+531,The aspect_term was on par with your local grocery store.,quality of the meat,negative,neutral,False
+532,They specialize in aspect_term and aspect_term.,smoothies,positive,positive,True
+533,They specialize in aspect_term and aspect_term.,fresh juices,positive,positive,True
+534,"I recommend the aspect_term, it was the best aspect_term of the evening.",black roasted codfish,positive,positive,True
+535,"I recommend the aspect_term, it was the best aspect_term of the evening.",dish,positive,positive,True
+536,The aspect_term then told us we could order from whatever aspect_term we wanted but by that time we were so annoyed with the aspect_term and the resturant that we let and went some place else.,manager,neutral,negative,False
+537,The aspect_term then told us we could order from whatever aspect_term we wanted but by that time we were so annoyed with the aspect_term and the resturant that we let and went some place else.,menu,neutral,negative,False
+538,The aspect_term then told us we could order from whatever aspect_term we wanted but by that time we were so annoyed with the aspect_term and the resturant that we let and went some place else.,waiter,negative,negative,True
+539,"In mi burrito, here was nothing but dark aspect_term that had that cooked last week and just warmed up in a microwave aspect_term.",chicken,negative,negative,True
+540,"In mi burrito, here was nothing but dark aspect_term that had that cooked last week and just warmed up in a microwave aspect_term.",taste,negative,negative,True
+541,"during busy hrs, i recommend that you make a aspect_term.",reservation,neutral,positive,False
+542,I went to Common Stock for aspect_term and I was so impressed.,brunch,neutral,neutral,True
+543,"now called nikki sushi, aspect_term is OK.",sushi,neutral,neutral,True
+544,The aspect_term is also outstanding and is aspect_term quite quickly.,food,positive,positive,True
+545,The aspect_term is also outstanding and is aspect_term quite quickly.,served,positive,positive,True
+546,"From the aspect_term to the aspect_term, the aspect_term at this restaurant are all handled with delicate care.",erbazzone emiliana,positive,positive,True
+547,"From the aspect_term to the aspect_term, the aspect_term at this restaurant are all handled with delicate care.",mostarda on the cheese plate,positive,positive,True
+548,"From the aspect_term to the aspect_term, the aspect_term at this restaurant are all handled with delicate care.",dishes,positive,positive,True
+549,The aspect_term is delicious and the aspect_term has a great aspect_term.,food,positive,positive,True
+550,The aspect_term is delicious and the aspect_term has a great aspect_term.,bar,positive,positive,True
+551,The aspect_term is delicious and the aspect_term has a great aspect_term.,vibe,positive,positive,True
+552,There's aspect_term and aspect_term.,candlelight,neutral,neutral,True
+553,There's aspect_term and aspect_term.,music,neutral,neutral,True
+554,Simple healthy unglamorous aspect_term cheap.,food,positive,positive,True
+555,"It was such a fantastic aspect_term, that I returned again the same week.",dining experience,positive,positive,True
+556,"To be fair, the aspect_term still is good and the aspect_term is quick and attentative even though its usually very busy.",food,positive,positive,True
+557,"To be fair, the aspect_term still is good and the aspect_term is quick and attentative even though its usually very busy.",service,positive,positive,True
+558,The aspect_term is absolutely adorable and the aspect_term is delicious.,place,positive,positive,True
+559,The aspect_term is absolutely adorable and the aspect_term is delicious.,food,positive,positive,True
+560,I ordered the aspect_term and my husband got aspect_term.,Chicken Teriyaki,neutral,neutral,True
+561,I ordered the aspect_term and my husband got aspect_term.,Garlic Shrimp,neutral,neutral,True
+562,I've had better aspect_term at a mall food court.,Japanese food,negative,positive,False
+563,The aspect_term are extremely friendly and even replaced my aspect_term once when I dropped it outside.,staff members,positive,positive,True
+564,The aspect_term are extremely friendly and even replaced my aspect_term once when I dropped it outside.,drink,neutral,positive,False
+565,Cool aspect_term but such a let down.,atmosphere,positive,positive,True
+566,"The aspect_term are big enough to appease most people, but I didn't like the fact they used aspect_term.",Sashimi portion,positive,negative,False
+567,"The aspect_term are big enough to appease most people, but I didn't like the fact they used aspect_term.",artifical lobster meat,negative,negative,True
+568,They have aspect_term made with really fresh and yummy aspect_term.,wheat crusted pizza,positive,positive,True
+569,They have aspect_term made with really fresh and yummy aspect_term.,ingredients,positive,positive,True
+570,"Had a lovely aspect_term in this dedicated seafood joint, aspect_term was well-prepared and -presented and the aspect_term was pleasant and prompt.",dinner,positive,positive,True
+571,"Had a lovely aspect_term in this dedicated seafood joint, aspect_term was well-prepared and -presented and the aspect_term was pleasant and prompt.",food,positive,positive,True
+572,"Had a lovely aspect_term in this dedicated seafood joint, aspect_term was well-prepared and -presented and the aspect_term was pleasant and prompt.",service,positive,positive,True
+573,"the icing MADE this aspect_term, it was fluffy, not ultra sweet, creamy and light.",cake,positive,negative,False
+574,"Finally let into the store 5 at a time, to buy expensive aspect_term from a harried aspect_term.",slices,negative,negative,True
+575,"Finally let into the store 5 at a time, to buy expensive aspect_term from a harried aspect_term.",staff,negative,negative,True
+576,We ended up having to just leave because we were essentially being ignored by the aspect_term -- even though the rest of the restaurant was largely empty.,wait staff,negative,negative,True
+577,"The aspect_term is extensive, well aspect_term and covers alot of regions.",wine list,positive,positive,True
+578,"The aspect_term is extensive, well aspect_term and covers alot of regions.",priced,positive,positive,True
+579,Go here if you want fresh and tasty aspect_term of any type you can imagine.,salads,positive,positive,True
+580,Everything about this place is adorable - even the aspect_term!,bathroom,positive,positive,True
+581,"Speedy aspect_term, great aspect_term, decent aspect_term, and friendly aspect_term combine to ensure an enjoyable aspect_term.",delivers,positive,positive,True
+582,"Speedy aspect_term, great aspect_term, decent aspect_term, and friendly aspect_term combine to ensure an enjoyable aspect_term.",food,positive,positive,True
+583,"Speedy aspect_term, great aspect_term, decent aspect_term, and friendly aspect_term combine to ensure an enjoyable aspect_term.",prices,positive,positive,True
+584,"Speedy aspect_term, great aspect_term, decent aspect_term, and friendly aspect_term combine to ensure an enjoyable aspect_term.",service,positive,positive,True
+585,"Speedy aspect_term, great aspect_term, decent aspect_term, and friendly aspect_term combine to ensure an enjoyable aspect_term.",repast,positive,positive,True
+586,THEY HAVE aspect_term ON THE SIDEWALK TRYING TO PULL YOU IN WHICH MADE US SUSPICIOUS.,WAITERS,neutral,negative,False
+587,IT WAS OUR ONLY OPPORTUNITY TO VISIT AND WANTED AN AUTHENTIC aspect_term.,ITALIAN MEAL,neutral,positive,False
+588,It took 100 years for Parisi to get around to making aspect_term (at least I don't think they ever made it before this year)...but it was worth the wait.,pizza,positive,negative,False
+589,I asked for a simple medium rare aspect_term.,steak,neutral,positive,False
+590,"Generously garnished, aspect_term are the most popular aspect_term, but the aspect_term and aspect_term -- are equally scrumptious.",organic grilled burgers,positive,positive,True
+591,"Generously garnished, aspect_term are the most popular aspect_term, but the aspect_term and aspect_term -- are equally scrumptious.",dish,positive,positive,True
+592,"Generously garnished, aspect_term are the most popular aspect_term, but the aspect_term and aspect_term -- are equally scrumptious.",Jerusalem market-style falafel wraps,positive,positive,True
+593,"Generously garnished, aspect_term are the most popular aspect_term, but the aspect_term and aspect_term -- are equally scrumptious.","Mediterranean salads--layered with beets, goat cheese and walnuts",positive,positive,True
+594,"Probably my worst aspect_term in new york, and I'm a former aspect_term so I know what I'm talking about.",dining experience,negative,negative,True
+595,"Probably my worst aspect_term in new york, and I'm a former aspect_term so I know what I'm talking about.",waiter,neutral,negative,False
+596,"Result (red velvet): Great aspect_term, soft and velvety, nice aspect_term.",texture,positive,positive,True
+597,"Result (red velvet): Great aspect_term, soft and velvety, nice aspect_term.",hint of cocoa,positive,positive,True
+598,Ask for the aspect_term.,round corner table next to the large window,positive,neutral,False
+599,"Their aspect_term is heatlhy, but full of aspect_term.",twist on pizza,positive,positive,True
+600,"Their aspect_term is heatlhy, but full of aspect_term.",flavor,positive,positive,True
+601,The lack of aspect_term and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.,AC,negative,negative,True
+602,"I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE aspect_term from two aspect_term.",service,negative,negative,True
+603,"I love the Little Pie Company as much as anyone else who has written reviews, but must discourage anyone from visiting the Grand Central location due to their RUDE aspect_term from two aspect_term.",sales people,negative,negative,True
+604,"Unfortunately, unless you live in the neighborhood, it's not in a convenient aspect_term but is more like a hidden treasure.",location,negative,negative,True
+605,Didn't seem like any effort was made to the aspect_term.,display and quality of the food,negative,negative,True
+606,The aspect_term -- though mostly deep-fried--is simple and satisfying.,food,positive,positive,True
+607,"Glechik might be way too tiny for a restaurant by Russian standards, but it is cozy and the aspect_term is simply GREAT.",food,positive,positive,True
+608,The aspect_term was excellent - authentic aspect_term made absolutely fresh.,food,positive,positive,True
+609,The aspect_term was excellent - authentic aspect_term made absolutely fresh.,Italian cuisine,positive,positive,True
+610,At night the aspect_term changes turning into this hidden jewel that is waiting to be discovered.,atmoshere,positive,positive,True
+611,"The other times I've gone it's romantic date heaven, you can walk in get a aspect_term, be treated like a VIP in a not-crowded aspect_term, with great aspect_term and aspect_term.",booth by the windows,neutral,neutral,True
+612,"The other times I've gone it's romantic date heaven, you can walk in get a aspect_term, be treated like a VIP in a not-crowded aspect_term, with great aspect_term and aspect_term.",place,positive,neutral,False
+613,"The other times I've gone it's romantic date heaven, you can walk in get a aspect_term, be treated like a VIP in a not-crowded aspect_term, with great aspect_term and aspect_term.",food,positive,positive,True
+614,"The other times I've gone it's romantic date heaven, you can walk in get a aspect_term, be treated like a VIP in a not-crowded aspect_term, with great aspect_term and aspect_term.",service,positive,positive,True
+615,I would only go for the aspect_term which is way better than Starbucks or the like.,coffee,positive,negative,False
+616,Somewhat disappointing aspect_term (only new aspect_term.,wine list,negative,negative,True
+617,Somewhat disappointing aspect_term (only new aspect_term.,vintages,negative,negative,True
+618,If your looking for nasty high aspect_term aspect_term with a dash of ghetto aspect_term cheap BX A$$ this is the place to be!!,priced,negative,negative,True
+619,If your looking for nasty high aspect_term aspect_term with a dash of ghetto aspect_term cheap BX A$$ this is the place to be!!,food,negative,negative,True
+620,If your looking for nasty high aspect_term aspect_term with a dash of ghetto aspect_term cheap BX A$$ this is the place to be!!,scenery,negative,negative,True
+621,aspect_term is ok - at least better than aspect_term!,new hamburger with special sauce,positive,neutral,False
+622,aspect_term is ok - at least better than aspect_term!,big mac,negative,neutral,False
+623,"Perfectly al dente aspect_term, not drowned in aspect_term -- generous aspect_term.",pasta,positive,negative,False
+624,"Perfectly al dente aspect_term, not drowned in aspect_term -- generous aspect_term.",sauce,neutral,negative,False
+625,"Perfectly al dente aspect_term, not drowned in aspect_term -- generous aspect_term.",portions,positive,negative,False
+626,"I can understand the aspect_term if it served better aspect_term, like some Chinese restaurants in midtown/uptown area.",prices,negative,positive,False
+627,"I can understand the aspect_term if it served better aspect_term, like some Chinese restaurants in midtown/uptown area.",food,negative,positive,False
+628,aspect_term was awful - mostly because aspect_term were overwhelmed on a Saturday night.,Service,negative,negative,True
+629,aspect_term was awful - mostly because aspect_term were overwhelmed on a Saturday night.,staff,negative,negative,True
+630,"To the aspect_term; good job guys, this place is a keeper!",owners,positive,positive,True
+631,and the aspect_term is simply lovely and friendly.,owner,positive,positive,True
+632,This little aspect_term is wonderfully warm welcoming.,place,positive,positive,True
+633,perfect for a quick aspect_term.,meal,positive,positive,True
+634,Has the warmth of a family local yet it is a great aspect_term to watch sporting events.,place,positive,positive,True
+635,"The aspect_term was great, and they have a whole great deal for birthdays.",service,positive,positive,True
+636,The aspect_term is 100% Italian and the aspect_term is as authentic as it gets.,staff,positive,positive,True
+637,The aspect_term is 100% Italian and the aspect_term is as authentic as it gets.,food,positive,positive,True
+638,My only complaint might be the aspect_term - I've never had a aspect_term predict bad luck for me before I visited Kar.,fortune cookies,negative,neutral,False
+639,My only complaint might be the aspect_term - I've never had a aspect_term predict bad luck for me before I visited Kar.,cookie,negative,neutral,False
+640,Good for a quick aspect_term.,sushi lunch,positive,positive,True
+641,Have a aspect_term and sit in the aspect_term.,mojito,positive,neutral,False
+642,Have a aspect_term and sit in the aspect_term.,back patio,positive,neutral,False
+643,The aspect_term was dreadfully slow (the place was only half full) and a smile would have been nice...,service,negative,negative,True
+644,I went this past Saturday and had a excellent aspect_term of consisting of a aspect_term.,meal,positive,positive,True
+645,I went this past Saturday and had a excellent aspect_term of consisting of a aspect_term.,braised lamb shank with mashed potatoes,positive,positive,True
+646,The aspect_term came by to pick up the aspect_term WHILE we were eating our aspect_term!!!!!,waitress,negative,positive,False
+647,The aspect_term came by to pick up the aspect_term WHILE we were eating our aspect_term!!!!!,soy sauce,neutral,neutral,True
+648,The aspect_term came by to pick up the aspect_term WHILE we were eating our aspect_term!!!!!,lunch,neutral,neutral,True
+649,"So we sat at the aspect_term, the aspect_term didn't seem like he wanted to be there.",bar,neutral,neutral,True
+650,"So we sat at the aspect_term, the aspect_term didn't seem like he wanted to be there.",bartender,negative,negative,True
+651,"I reccomend the aspect_term, the aspect_term, and the aspect_term.",fried pork dumplings,positive,positive,True
+652,"I reccomend the aspect_term, the aspect_term, and the aspect_term.",orange chicken/beef,positive,positive,True
+653,"I reccomend the aspect_term, the aspect_term, and the aspect_term.",fried rice,positive,positive,True
+654,You will not be dissapointed by any of the choices in the aspect_term.,menu,positive,negative,False
+655,The aspect_term were terrific!,french fries -- with the kalmata dip,positive,positive,True
+656,"Would you ever believe that when you complain about over an hour aspect_term, when they tell you it will be 20-30 minutes, the aspect_term tells the aspect_term to spill the aspect_term you just paid for?",wait,negative,negative,True
+657,"Would you ever believe that when you complain about over an hour aspect_term, when they tell you it will be 20-30 minutes, the aspect_term tells the aspect_term to spill the aspect_term you just paid for?",manager,negative,negative,True
+658,"Would you ever believe that when you complain about over an hour aspect_term, when they tell you it will be 20-30 minutes, the aspect_term tells the aspect_term to spill the aspect_term you just paid for?",bartender,neutral,negative,False
+659,"Would you ever believe that when you complain about over an hour aspect_term, when they tell you it will be 20-30 minutes, the aspect_term tells the aspect_term to spill the aspect_term you just paid for?",drinks,neutral,negative,False
+660,The aspect_term covers a wide variety without being imposeing.,boutique selection of wines,neutral,positive,False
+661,They also have a great aspect_term if your not in the mood for aspect_term.,assortment of wraps,positive,positive,True
+662,They also have a great aspect_term if your not in the mood for aspect_term.,traditional Mediterranean fare,neutral,neutral,True
+663,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",Fresh veggies,positive,positive,True
+664,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",middle eastern spreads,positive,positive,True
+665,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",cheese,positive,positive,True
+666,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",falafel,positive,positive,True
+667,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",soup,positive,positive,True
+668,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",fish,positive,positive,True
+669,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",rice,positive,positive,True
+670,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",root vegetables,positive,positive,True
+671,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",rice medley,positive,positive,True
+672,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",spinach thing,positive,positive,True
+673,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",lamb kebabs,positive,positive,True
+674,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",cheese baclava,positive,positive,True
+675,"aspect_term, all sorts of aspect_term, aspect_term and aspect_term, aspect_term, aspect_term, aspect_term, aspect_term, a aspect_term, some aspect_term, aspect_term, aspect_term... soooo much aspect_term, and all of it delicious.",fooood,positive,positive,True
+676,"Disappointingly, their wonderful aspect_term has been taken off the aspect_term.",Saketini,positive,negative,False
+677,"Disappointingly, their wonderful aspect_term has been taken off the aspect_term.",bar menu,negative,negative,True
+678,In Short The Black Sheep distinguishes itself from the Midtown pub herd with a aspect_term that's a mix of sports-bar butch and ornate kitsch.,look,negative,positive,False
+679,I would definitely go back -- if only for some of those exotic aspect_term on the blackboard.,martinis,positive,positive,True
+680,then she made a fuss about not being able to add 1 or 2 aspect_term on either end of the aspect_term for additional people.,chairs,neutral,neutral,True
+681,then she made a fuss about not being able to add 1 or 2 aspect_term on either end of the aspect_term for additional people.,table,neutral,neutral,True
+682,"The aspect_term is so cheap, but that does not reflect the aspect_term or the aspect_term.",happy hour,positive,positive,True
+683,"The aspect_term is so cheap, but that does not reflect the aspect_term or the aspect_term.",service,positive,positive,True
+684,"The aspect_term is so cheap, but that does not reflect the aspect_term or the aspect_term.",atmosphere,positive,positive,True
+685,"After aspect_term for almost an hour, the aspect_term brusquely told us he'd forgotten to give the aspect_term our order.",waiting,negative,neutral,False
+686,"After aspect_term for almost an hour, the aspect_term brusquely told us he'd forgotten to give the aspect_term our order.",waiter,negative,negative,True
+687,"After aspect_term for almost an hour, the aspect_term brusquely told us he'd forgotten to give the aspect_term our order.",kitchen,neutral,neutral,True
+688,With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in aspect_term and aspect_term.,quaility,positive,negative,False
+689,With all the mundane or mediocre places on 8th avenue it is nice to have one that is a step above in aspect_term and aspect_term.,atmosphere,positive,negative,False
+690,"A mix of students and area residents crowd into this narrow, barely there aspect_term for its quick, tasty aspect_term at dirt-cheap aspect_term.",space,negative,positive,False
+691,"A mix of students and area residents crowd into this narrow, barely there aspect_term for its quick, tasty aspect_term at dirt-cheap aspect_term.",treats,positive,positive,True
+692,"A mix of students and area residents crowd into this narrow, barely there aspect_term for its quick, tasty aspect_term at dirt-cheap aspect_term.",prices,positive,positive,True
+693,"Give it a try, aspect_term is typical French but varied.",menu,neutral,positive,False
+694,It gets crowded at lunchtime but there are lots of aspect_term in back and everyone who works there is so nice.,seats,positive,positive,True
+695,"but for the aspect_term, it was a great affordable spot to enjoy a fun night out with small group.",value,positive,positive,True
+696,the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive aspect_term about the proper way to treat their customers and deliver top quality aspect_term.,attitude,positive,negative,False
+697,the negative reviews on city search are probably from jealous competing restaurants who realize they can't compete with Temple's entire positive aspect_term about the proper way to treat their customers and deliver top quality aspect_term.,food,positive,positive,True
+698,We ordered a aspect_term and were finished eating and paying before the wine came.,glass of wine,neutral,neutral,True
+699,"It was good, but none of the aspect_term WOW.",flavors,neutral,positive,False
+700,"Overall, this is a nice aspect_term to take a few friends to hang out at and the aspect_term is excellent.",place,positive,positive,True
+701,"Overall, this is a nice aspect_term to take a few friends to hang out at and the aspect_term is excellent.",service,positive,positive,True
+702,aspect_term is excellent quality for a good restaurant aspect_term.,Food,positive,positive,True
+703,aspect_term is excellent quality for a good restaurant aspect_term.,price,positive,positive,True
+704,"for about eleven bucks you get a gigantic aspect_term (or aspect_term), aspect_term, and aspect_term.",burrito,positive,positive,True
+705,"for about eleven bucks you get a gigantic aspect_term (or aspect_term), aspect_term, and aspect_term.",tacos,positive,positive,True
+706,"for about eleven bucks you get a gigantic aspect_term (or aspect_term), aspect_term, and aspect_term.",margarita,neutral,positive,False
+707,"for about eleven bucks you get a gigantic aspect_term (or aspect_term), aspect_term, and aspect_term.",dessert,neutral,positive,False
+708,The aspect_term is traditional in feel.,space,neutral,positive,False
+709,"the restaurant was completely empty, but she gave me a dirty look and asked, no aspect_term?",reservations,neutral,negative,False
+710,the aspect_term was mediocre to be kind - the aspect_term is small and average - the aspect_term are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst aspect_term.,food,negative,negative,True
+711,the aspect_term was mediocre to be kind - the aspect_term is small and average - the aspect_term are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst aspect_term.,interior,negative,negative,True
+712,the aspect_term was mediocre to be kind - the aspect_term is small and average - the aspect_term are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst aspect_term.,owners,negative,negative,True
+713,the aspect_term was mediocre to be kind - the aspect_term is small and average - the aspect_term are a tag-team of unpleasantries - so rude and snotty i actually let out a hearty guffaw whilst aspect_term.,dining,neutral,neutral,True
+714,"Good aspect_term, great aspect_term, good aspect_term, and never have to aspect_term in line!",service,positive,positive,True
+715,"Good aspect_term, great aspect_term, good aspect_term, and never have to aspect_term in line!",food,positive,positive,True
+716,"Good aspect_term, great aspect_term, good aspect_term, and never have to aspect_term in line!",value,positive,positive,True
+717,"Good aspect_term, great aspect_term, good aspect_term, and never have to aspect_term in line!",wait,positive,positive,True
+718,Offerings like aspect_term and the aspect_term are available for aspect_term.,hot cakes,neutral,neutral,True
+719,Offerings like aspect_term and the aspect_term are available for aspect_term.,Egg McMuffin sandwich,neutral,neutral,True
+720,Offerings like aspect_term and the aspect_term are available for aspect_term.,breakfast,neutral,neutral,True
+721,"I have been going to this restaurant for years, in the past the aspect_term was average and the aspect_term inconsistant.",service,neutral,negative,False
+722,"I have been going to this restaurant for years, in the past the aspect_term was average and the aspect_term inconsistant.",food,negative,negative,True
+723,"The aspect_term was fascinating, but left room for conversation, and the aspect_term made superb aspect_term.",music,positive,positive,True
+724,"The aspect_term was fascinating, but left room for conversation, and the aspect_term made superb aspect_term.",bartender,positive,positive,True
+725,"The aspect_term was fascinating, but left room for conversation, and the aspect_term made superb aspect_term.",drinks,positive,positive,True
+726,aspect_term and aspect_term rarely exceed $5 and add on a refreshing aspect_term for $2 and you're set for the night!,rice dishes,positive,positive,True
+727,aspect_term and aspect_term rarely exceed $5 and add on a refreshing aspect_term for $2 and you're set for the night!,noodle dishes,positive,positive,True
+728,aspect_term and aspect_term rarely exceed $5 and add on a refreshing aspect_term for $2 and you're set for the night!,ice drink,positive,positive,True
+729,aspect_term is aspect_term as aspect_term - doesn't meet the aspect_term.,Cuisine,negative,positive,False
+730,aspect_term is aspect_term as aspect_term - doesn't meet the aspect_term.,billed,negative,positive,False
+731,aspect_term is aspect_term as aspect_term - doesn't meet the aspect_term.,asian fusion,neutral,neutral,True
+732,aspect_term is aspect_term as aspect_term - doesn't meet the aspect_term.,bill,negative,neutral,False
+733,Creative aspect_term like aspect_term and aspect_term are unexpected elements on an otherwise predictable aspect_term.,dishes,positive,positive,True
+734,Creative aspect_term like aspect_term and aspect_term are unexpected elements on an otherwise predictable aspect_term.,king crab salad with passion fruit vinaigrette,positive,positive,True
+735,Creative aspect_term like aspect_term and aspect_term are unexpected elements on an otherwise predictable aspect_term.,fettuccine with grilled seafood in a rosemary-orange sauce,positive,positive,True
+736,Creative aspect_term like aspect_term and aspect_term are unexpected elements on an otherwise predictable aspect_term.,bistro menu,neutral,positive,False
+737,"aspect_term denoted as aspect_term (marked on the aspect_term with asterisks) are tried-and-true aspect_term, such as aspect_term, or subtly aspect_term.",Dishes,positive,negative,False
+738,"aspect_term denoted as aspect_term (marked on the aspect_term with asterisks) are tried-and-true aspect_term, such as aspect_term, or subtly aspect_term.","""Roy's Classics""",positive,neutral,False
+739,"aspect_term denoted as aspect_term (marked on the aspect_term with asterisks) are tried-and-true aspect_term, such as aspect_term, or subtly aspect_term.",menu,neutral,neutral,True
+740,"aspect_term denoted as aspect_term (marked on the aspect_term with asterisks) are tried-and-true aspect_term, such as aspect_term, or subtly aspect_term.",recipes,positive,positive,True
+741,"aspect_term denoted as aspect_term (marked on the aspect_term with asterisks) are tried-and-true aspect_term, such as aspect_term, or subtly aspect_term.",macadamia-crusted mahi mahi,positive,positive,True
+742,"aspect_term denoted as aspect_term (marked on the aspect_term with asterisks) are tried-and-true aspect_term, such as aspect_term, or subtly aspect_term.",sweet honey-mustard beef short ribs,positive,positive,True
+743,"The aspect_term, which are a freebie when you order $10+, are delectable.",cold sesame noodles,positive,positive,True
+744,"I came to fresh expecting a great aspect_term, and all I got was marginally so-so aspect_term aspect_term in a restaurant that was just so freezing we couldn't enjoy eating.",meal,negative,positive,False
+745,"I came to fresh expecting a great aspect_term, and all I got was marginally so-so aspect_term aspect_term in a restaurant that was just so freezing we couldn't enjoy eating.",food,negative,negative,True
+746,"I came to fresh expecting a great aspect_term, and all I got was marginally so-so aspect_term aspect_term in a restaurant that was just so freezing we couldn't enjoy eating.",served,neutral,negative,False
+747,The lone aspect_term at $8.95 was a heavy aspect_term like the ones that sell for $2.99/lb at the store.,argentine chorizo appetizer,negative,negative,True
+748,The lone aspect_term at $8.95 was a heavy aspect_term like the ones that sell for $2.99/lb at the store.,fennel flavored Italian sausage,negative,negative,True
+749,"I went to Swiftys with some friends of the family and we had a very nice aspect_term, but nothing amazing.",dinner,positive,positive,True
+750,"Best Chinese on the Upper East, prompt aspect_term, good aspect_term.",delivery,positive,positive,True
+751,"Best Chinese on the Upper East, prompt aspect_term, good aspect_term.",value,positive,positive,True
+752,Most of the aspect_term are made with aspect_term which is actually pretty good.,sandwiches,positive,positive,True
+753,Most of the aspect_term are made with aspect_term which is actually pretty good.,soy mayonaise,positive,positive,True
+754,i went in one day asking for a aspect_term for a group and was greeted by a very rude aspect_term.,table,neutral,negative,False
+755,i went in one day asking for a aspect_term for a group and was greeted by a very rude aspect_term.,hostess,negative,negative,True
+756,It's worthwhile to take a cab to Chelsea just for an awesome aspect_term at My Chelsea.,dinner,positive,positive,True
+757,"Not only is the aspect_term authentic, but the aspect_term here are practically off-the-boat, they are young and hip and know what they are doing when it comes to aspect_term and aspect_term.",food,positive,positive,True
+758,"Not only is the aspect_term authentic, but the aspect_term here are practically off-the-boat, they are young and hip and know what they are doing when it comes to aspect_term and aspect_term.",staff,positive,negative,False
+759,"Not only is the aspect_term authentic, but the aspect_term here are practically off-the-boat, they are young and hip and know what they are doing when it comes to aspect_term and aspect_term.",food,positive,neutral,False
+760,"Not only is the aspect_term authentic, but the aspect_term here are practically off-the-boat, they are young and hip and know what they are doing when it comes to aspect_term and aspect_term.",wine,positive,neutral,False
+761,"It has good aspect_term, nice aspect_term, an interesting aspect_term and a lowkey hip neighborhood aspect_term.",music,positive,positive,True
+762,"It has good aspect_term, nice aspect_term, an interesting aspect_term and a lowkey hip neighborhood aspect_term.",tapas,positive,positive,True
+763,"It has good aspect_term, nice aspect_term, an interesting aspect_term and a lowkey hip neighborhood aspect_term.",selection of wines (primarily Spanish),positive,positive,True
+764,"It has good aspect_term, nice aspect_term, an interesting aspect_term and a lowkey hip neighborhood aspect_term.",clientele,positive,positive,True
+765,"The aspect_term is great, I love their aspect_term, aspect_term, aspect_term and aspect_term.",food,positive,positive,True
+766,"The aspect_term is great, I love their aspect_term, aspect_term, aspect_term and aspect_term.",dumplings,positive,positive,True
+767,"The aspect_term is great, I love their aspect_term, aspect_term, aspect_term and aspect_term.",cold sesame noodles,positive,positive,True
+768,"The aspect_term is great, I love their aspect_term, aspect_term, aspect_term and aspect_term.",chicken,positive,positive,True
+769,"The aspect_term is great, I love their aspect_term, aspect_term, aspect_term and aspect_term.",shrimp dishs,positive,positive,True
+770,"And the aspect_term, well the aspect_term will keep you coming back.",food,positive,positive,True
+771,"And the aspect_term, well the aspect_term will keep you coming back.",food,positive,positive,True
+772,aspect_term three hours before getting our aspect_term was a treat as well.,Waiting,negative,neutral,False
+773,aspect_term three hours before getting our aspect_term was a treat as well.,entrees,neutral,neutral,True
+774,It's the conversations that make this a fun aspect_term to be.,place,positive,positive,True
+775,"My gf's aspect_term was very solid as well, although i have little base of reference.",duck confitte,positive,positive,True
+776,"The aspect_term was superb, our aspect_term delightful, and the quiet aspect_term perfect for good conversation.",wine list,positive,positive,True
+777,"The aspect_term was superb, our aspect_term delightful, and the quiet aspect_term perfect for good conversation.",tapas,positive,positive,True
+778,"The aspect_term was superb, our aspect_term delightful, and the quiet aspect_term perfect for good conversation.",atmosphere,positive,positive,True
+779,You can eat gourmet aspect_term at a fast food aspect_term.,food,positive,positive,True
+780,You can eat gourmet aspect_term at a fast food aspect_term.,price,positive,positive,True
+781,"I've eaten at all three locations and I always love, love the aspect_term, the aspect_term is always wonderful and the aspect_term are really reasonable.",food,positive,positive,True
+782,"I've eaten at all three locations and I always love, love the aspect_term, the aspect_term is always wonderful and the aspect_term are really reasonable.",service,positive,positive,True
+783,"I've eaten at all three locations and I always love, love the aspect_term, the aspect_term is always wonderful and the aspect_term are really reasonable.",prices,positive,positive,True
+784,"Not because I was pregnant, but the aspect_term here is always delicious.",food,positive,positive,True
+785,Had a great aspect_term there this weekend before heading to the movies!,meal,positive,positive,True
+786,We had a birthday party here recently and the aspect_term and aspect_term was amazing.,food,positive,positive,True
+787,We had a birthday party here recently and the aspect_term and aspect_term was amazing.,service,positive,positive,True
+788,"the aspect_term offers a variety of great aspect_term, including fresh aspect_term and huge aspect_term, there's also a couple of aspect_term.",dinner menu,positive,positive,True
+789,"the aspect_term offers a variety of great aspect_term, including fresh aspect_term and huge aspect_term, there's also a couple of aspect_term.",entrees,positive,positive,True
+790,"the aspect_term offers a variety of great aspect_term, including fresh aspect_term and huge aspect_term, there's also a couple of aspect_term.",seafood,positive,positive,True
+791,"the aspect_term offers a variety of great aspect_term, including fresh aspect_term and huge aspect_term, there's also a couple of aspect_term.",steaks,positive,positive,True
+792,"the aspect_term offers a variety of great aspect_term, including fresh aspect_term and huge aspect_term, there's also a couple of aspect_term.",non-meat alternatives,neutral,neutral,True
+793,This place has the strangest aspect_term and the restaurants tries too hard to make fancy aspect_term.,menu,negative,positive,False
+794,This place has the strangest aspect_term and the restaurants tries too hard to make fancy aspect_term.,food,negative,negative,True
+795,"The aspect_term are ok, but the aspect_term is slow.",appetizers,neutral,negative,False
+796,"The aspect_term are ok, but the aspect_term is slow.",service,negative,negative,True
+797,the aspect_term - not worth the aspect_term.,food,negative,neutral,False
+798,the aspect_term - not worth the aspect_term.,price,negative,neutral,False
+799,"What can you say about a place where the aspect_term brings out the wrong aspect_term, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).",waitress,negative,neutral,False
+800,"What can you say about a place where the aspect_term brings out the wrong aspect_term, then verbally assaults your 80 year old grandmother and gives her lip about sending it back (which she did politely, by the way).",entree,neutral,neutral,True
+801,The aspect_term are not terrible.,prices,positive,negative,False
+802,15% aspect_term automatically added to the aspect_term.,gratuity,negative,neutral,False
+803,15% aspect_term automatically added to the aspect_term.,bill,negative,neutral,False
+804,"The aspect_term came with a generous aspect_term, but that's about the only positive thing I can say about the meal.",halibut cheek appetizer,neutral,positive,False
+805,"The aspect_term came with a generous aspect_term, but that's about the only positive thing I can say about the meal.",portion of foie gras,positive,positive,True
+806,aspect_term is excellent and they also have aspect_term and aspect_term which are good for an aspect_term.,Food,positive,positive,True
+807,aspect_term is excellent and they also have aspect_term and aspect_term which are good for an aspect_term.,empenadas,positive,positive,True
+808,aspect_term is excellent and they also have aspect_term and aspect_term which are good for an aspect_term.,plaintains,positive,positive,True
+809,aspect_term is excellent and they also have aspect_term and aspect_term which are good for an aspect_term.,afternoon snack,positive,positive,True
+810,Both a number of the aspect_term and aspect_term were amazing.,appetizer,positive,positive,True
+811,Both a number of the aspect_term and aspect_term were amazing.,pasta specials,positive,positive,True
+812,"All-time favorites include the aspect_term, aspect_term, aspect_term and aspect_term; lighter options like aspect_term are also available.",Big Mac,positive,positive,True
+813,"All-time favorites include the aspect_term, aspect_term, aspect_term and aspect_term; lighter options like aspect_term are also available.",Chicken McNuggets,positive,positive,True
+814,"All-time favorites include the aspect_term, aspect_term, aspect_term and aspect_term; lighter options like aspect_term are also available.",Filet-O-Fish sandwich,positive,positive,True
+815,"All-time favorites include the aspect_term, aspect_term, aspect_term and aspect_term; lighter options like aspect_term are also available.",McDonald's famous french fries,positive,positive,True
+816,"All-time favorites include the aspect_term, aspect_term, aspect_term and aspect_term; lighter options like aspect_term are also available.",entree-sized salads,neutral,neutral,True
+817,"It's a basic pizza joint, not much to look at, but the aspect_term is what I go for.",pizza,positive,negative,False
+818,"aspect_term are close, so you better be comfortable bumping elbows with other patrons.",Tables,negative,positive,False
+819,Was her Monday for aspect_term - was working on a film in the area - and found this rare jewel.,lunch,neutral,neutral,True
+820,"Not too much so, but enough that there's a great aspect_term.",scene,positive,positive,True
+821,Dug the aspect_term too.,blue bar area,positive,neutral,False
+822,"I got the opportunity to dine at your establishment again a few weeks ago, I was in your aspect_term.",upstrairs dining area,neutral,neutral,True
+823,"Meat-phobes are in luck with the extraordinary aspect_term, made from a distinctive blend of aspect_term, aspect_term and other aspect_term and aspect_term.",veggie burger,positive,positive,True
+824,"Meat-phobes are in luck with the extraordinary aspect_term, made from a distinctive blend of aspect_term, aspect_term and other aspect_term and aspect_term.",chickpeas,positive,positive,True
+825,"Meat-phobes are in luck with the extraordinary aspect_term, made from a distinctive blend of aspect_term, aspect_term and other aspect_term and aspect_term.",carrots,positive,positive,True
+826,"Meat-phobes are in luck with the extraordinary aspect_term, made from a distinctive blend of aspect_term, aspect_term and other aspect_term and aspect_term.",vegetables,positive,positive,True
+827,"Meat-phobes are in luck with the extraordinary aspect_term, made from a distinctive blend of aspect_term, aspect_term and other aspect_term and aspect_term.",spices,positive,positive,True
+828,"At peak times, the restaurant is overcrowded and aspect_term are uncomfortably close.",tables,negative,negative,True
+829,The aspect_term was on point - what else you would expect from a Ritz?,service,positive,negative,False
+830,"aspect_term feature seasonal picks, like aspect_term.",Menus,neutral,positive,False
+831,"aspect_term feature seasonal picks, like aspect_term.",sweet corn-foie gras brulee,neutral,positive,False
+832,"Innovations are just as assured, from the simple aspect_term to the aspect_term, beautifully matched with a bright aspect_term.",Carinthia cheese ravioli with wild mushrooms,positive,positive,True
+833,"Innovations are just as assured, from the simple aspect_term to the aspect_term, beautifully matched with a bright aspect_term.",caviar-topped sturgeon,positive,positive,True
+834,"Innovations are just as assured, from the simple aspect_term to the aspect_term, beautifully matched with a bright aspect_term.",green spinach-vodka sauce,positive,positive,True
+835,"And these are not small, wimpy fast food type aspect_term - these are real, full sized aspect_term.",burgers,positive,negative,False
+836,"And these are not small, wimpy fast food type aspect_term - these are real, full sized aspect_term.",patties,positive,negative,False
+837,"There restaurant is very casual, but perfect for aspect_term, and their aspect_term is always very fast.",lunch,neutral,positive,False
+838,"There restaurant is very casual, but perfect for aspect_term, and their aspect_term is always very fast.",delivery service,positive,positive,True
+839,Chinatown definitely has better aspect_term with cheaper aspect_term.,quality,positive,positive,True
+840,Chinatown definitely has better aspect_term with cheaper aspect_term.,prices,positive,positive,True
+841,I had to flag down a third aspect_term for a aspect_term... so now it's goodbye Little RUDE Pie Company.,staff person,neutral,negative,False
+842,I had to flag down a third aspect_term for a aspect_term... so now it's goodbye Little RUDE Pie Company.,fork,neutral,negative,False
+843,"Go with the aspect_term, and stay away from the aspect_term.",specials,positive,positive,True
+844,"Go with the aspect_term, and stay away from the aspect_term.",salmon,negative,positive,False
+845,The aspect_term were pretty good.,pastas,positive,positive,True
+846,aspect_term is a bore.,Atmosphere,negative,neutral,False
+847,The aspect_term is what initially got me in the door.,decor,positive,negative,False
+848,The aspect_term was very attentive and polite.,wait staff,positive,positive,True
+849,"Great restaurant, and even greater aspect_term!",food,positive,positive,True
+850,The aspect_term are remarkably tasty and such a cozy and intimate aspect_term!,dishes,positive,positive,True
+851,The aspect_term are remarkably tasty and such a cozy and intimate aspect_term!,place,positive,positive,True
+852,Save room for the aspect_term! ;-),desserts,positive,positive,True
+853,"I love the simplicity and respect which was given to the aspect_term, as well the aspect_term was freindly and knowledgable.",food,positive,positive,True
+854,"I love the simplicity and respect which was given to the aspect_term, as well the aspect_term was freindly and knowledgable.",staff,positive,positive,True
+855,aspect_term was good and so was the aspect_term.,Service,positive,positive,True
+856,aspect_term was good and so was the aspect_term.,atmosphere,positive,positive,True
+857,MY date and I both ordered the aspect_term and both felt the aspect_term was very average.,Branzini,neutral,negative,False
+858,MY date and I both ordered the aspect_term and both felt the aspect_term was very average.,fish,negative,negative,True
+859,"The aspect_term was good, the aspect_term prompt, and the aspect_term very reasonable.",food,positive,positive,True
+860,"The aspect_term was good, the aspect_term prompt, and the aspect_term very reasonable.",service,positive,positive,True
+861,"The aspect_term was good, the aspect_term prompt, and the aspect_term very reasonable.",price,positive,positive,True
+862,"Wonderful aspect_term, warm inviting aspect_term, great aspect_term the aspect_term keeps me coming back!",menu,positive,positive,True
+863,"Wonderful aspect_term, warm inviting aspect_term, great aspect_term the aspect_term keeps me coming back!",ambiance,positive,positive,True
+864,"Wonderful aspect_term, warm inviting aspect_term, great aspect_term the aspect_term keeps me coming back!",service,positive,positive,True
+865,"Wonderful aspect_term, warm inviting aspect_term, great aspect_term the aspect_term keeps me coming back!",FOOD,positive,positive,True
+866,"Great aspect_term, good aspect_term and an excellent aspect_term.",food,positive,positive,True
+867,"Great aspect_term, good aspect_term and an excellent aspect_term.",wine,positive,positive,True
+868,"Great aspect_term, good aspect_term and an excellent aspect_term.",host,positive,positive,True
+869,aspect_term were excellent in addition to aspect_term and aspect_term.,Pizzas,positive,positive,True
+870,aspect_term were excellent in addition to aspect_term and aspect_term.,appetizers,positive,positive,True
+871,aspect_term were excellent in addition to aspect_term and aspect_term.,main courses,positive,positive,True
+872,"Definitely try the aspect_term, any aspect_term, or even the aspect_term.",calamari,positive,positive,True
+873,"Definitely try the aspect_term, any aspect_term, or even the aspect_term.",pasta,positive,positive,True
+874,"Definitely try the aspect_term, any aspect_term, or even the aspect_term.",Sliced steak entree,positive,positive,True
+875,The aspect_term was great.,caeser salad,positive,positive,True
+876,The aspect_term was even better!,fried calamari,positive,positive,True
+877,The aspect_term was good overall.,food,positive,positive,True
+878,The aspect_term was outstanding and the aspect_term was tops.,food,positive,positive,True
+879,The aspect_term was outstanding and the aspect_term was tops.,service,positive,positive,True
+880,The aspect_term are very large and the aspect_term is fantastic!!,portions,positive,positive,True
+881,The aspect_term are very large and the aspect_term is fantastic!!,service,positive,positive,True
+882,I recomend the aspect_term.,chicken milanese,positive,positive,True
+883,"excellent aspect_term at great aspect_term, romantic, small but not overly crowed, excellent",tapas,positive,positive,True
+884,"excellent aspect_term at great aspect_term, romantic, small but not overly crowed, excellent",prices,positive,positive,True
+885,"The aspect_term is heavenly- not too sweet, but full of aspect_term.",chocolate raspberry cake,positive,negative,False
+886,"The aspect_term is heavenly- not too sweet, but full of aspect_term.",flavor,positive,negative,False
+887,"Our aspect_term was helpful and charming, the aspect_term was perfect, and the aspect_term was good, too.",waiter,positive,positive,True
+888,"Our aspect_term was helpful and charming, the aspect_term was perfect, and the aspect_term was good, too.",food,positive,positive,True
+889,"Our aspect_term was helpful and charming, the aspect_term was perfect, and the aspect_term was good, too.",wine,positive,positive,True
+890,I HAVE NEVER HAD A BAD aspect_term ( OR BAD aspect_term )@ PIGALLE.,MEAL,positive,neutral,False
+891,I HAVE NEVER HAD A BAD aspect_term ( OR BAD aspect_term )@ PIGALLE.,SERVICE,positive,neutral,False
+892,Best aspect_term in the tri-state area.,hot dogs,positive,positive,True
+893,The aspect_term was very attentive and very generous.,service,positive,positive,True
+894,"We had tons of great aspect_term, aspect_term, and aspect_term.",food,positive,positive,True
+895,"We had tons of great aspect_term, aspect_term, and aspect_term.",wine,positive,positive,True
+896,"We had tons of great aspect_term, aspect_term, and aspect_term.",desserts,positive,positive,True
+897,Really Lovely aspect_term in the midst of buzzing midtown area.,dining experience,positive,positive,True
+898,The aspect_term really isn't very good and the aspect_term is terrible.,food,negative,negative,True
+899,The aspect_term really isn't very good and the aspect_term is terrible.,service,negative,negative,True
+900,"Not only do they have the best aspect_term in town,they always try to accomodate our toddler.",escargot,positive,positive,True
+901,"Between my guest and I, we sampled at least 80% of the aspect_term, and they were all hits.",menu,positive,neutral,False
+902,The aspect_term and aspect_term was really romantic.,Deco,positive,positive,True
+903,The aspect_term and aspect_term was really romantic.,ambiance,positive,positive,True
+904,Just go in and sample the greatest aspect_term west of Daniel.,french food,positive,positive,True
+905,"For someone who used to hate aspect_term, Baluchi's has changed my mid.",Indian food,positive,negative,False
+906,"Finally a aspect_term that I can eat, enjoy and not suffer from gastritis from 3 hours later.",curry,positive,positive,True
+907,"All are GREAT - aspect_term, aspect_term, aspect_term all FRESH.",poori,positive,positive,True
+908,"All are GREAT - aspect_term, aspect_term, aspect_term all FRESH.",naan,positive,positive,True
+909,"All are GREAT - aspect_term, aspect_term, aspect_term all FRESH.",paratha,positive,positive,True
+910,Try the aspect_term.,homemade breads,positive,positive,True
+911,"This place has beautiful aspect_term, and it's delicious CHEAP.",sushi,positive,positive,True
+912,It also has lots of other aspect_term that are affordable and just as yummy.,Korean dishes,positive,positive,True
+913,I went for restaurant week and ordered off the aspect_term,prix fixe menu,neutral,neutral,True
+914,"Not only was the aspect_term efficient and courteous, but also extremely helpful.",waiter,positive,positive,True
+915,"This aspect_term is classy, chic, the aspect_term is warm and hospitable, and the aspect_term is outstanding.",place,positive,positive,True
+916,"This aspect_term is classy, chic, the aspect_term is warm and hospitable, and the aspect_term is outstanding.",service,positive,positive,True
+917,"This aspect_term is classy, chic, the aspect_term is warm and hospitable, and the aspect_term is outstanding.",food,positive,positive,True
+918,"Great aspect_term, aspect_term and aspect_term.",burgers,positive,positive,True
+919,"Great aspect_term, aspect_term and aspect_term.",grilled cheeses,positive,positive,True
+920,"Great aspect_term, aspect_term and aspect_term.",french fries,positive,positive,True
+921,The aspect_term and aspect_term are my favorites!,Yellowfin Tuna,positive,positive,True
+922,The aspect_term and aspect_term are my favorites!,Calf's liver,positive,positive,True
+923,aspect_term so fresh that it crunches in your mouth.,Sushi,positive,positive,True
+924,But make sure you have enough room on your credit card as the aspect_term will leave a big dent in your wallet.,bill,negative,negative,True
+925,They bring a aspect_term up to your aspect_term and offer you up to 7 or 8 aspect_term for your aspect_term (I tried them ALL).,sauce cart,neutral,neutral,True
+926,They bring a aspect_term up to your aspect_term and offer you up to 7 or 8 aspect_term for your aspect_term (I tried them ALL).,table,neutral,neutral,True
+927,They bring a aspect_term up to your aspect_term and offer you up to 7 or 8 aspect_term for your aspect_term (I tried them ALL).,choices of sauces,positive,neutral,False
+928,They bring a aspect_term up to your aspect_term and offer you up to 7 or 8 aspect_term for your aspect_term (I tried them ALL).,steak,neutral,neutral,True
+929,"Not only was the aspect_term fresh, they also served other aspect_term allowed each guest something to choose from and we all left happy (try the aspect_term!",sushi,positive,positive,True
+930,"Not only was the aspect_term fresh, they also served other aspect_term allowed each guest something to choose from and we all left happy (try the aspect_term!",entrees,neutral,negative,False
+931,"Not only was the aspect_term fresh, they also served other aspect_term allowed each guest something to choose from and we all left happy (try the aspect_term!",duck,positive,positive,True
+932,good aspect_term but nothing surprising.,variety,positive,positive,True
+933,"After I paid for my purchase, I noticed they had not given me aspect_term so I could eat my aspect_term.",utensils,neutral,neutral,True
+934,"After I paid for my purchase, I noticed they had not given me aspect_term so I could eat my aspect_term.",pie,neutral,neutral,True
+935,Likewise if you like really aspect_term or really big aspect_term then Nick and Joe's may not be your favorite.,thin crust,negative,positive,False
+936,Likewise if you like really aspect_term or really big aspect_term then Nick and Joe's may not be your favorite.,slices,negative,positive,False
+937,"No aspect_term, no aspect_term, no aspect_term, no aspect_term, no aspect_term.",green beans,neutral,neutral,True
+938,"No aspect_term, no aspect_term, no aspect_term, no aspect_term, no aspect_term.",egg,neutral,neutral,True
+939,"No aspect_term, no aspect_term, no aspect_term, no aspect_term, no aspect_term.",anchovy dressing,neutral,neutral,True
+940,"No aspect_term, no aspect_term, no aspect_term, no aspect_term, no aspect_term.",nicoise olives,neutral,neutral,True
+941,"No aspect_term, no aspect_term, no aspect_term, no aspect_term, no aspect_term.",red onion,neutral,neutral,True
+942,"Build a aspect_term with aspect_term like aspect_term, aspect_term and aspect_term.",meal,neutral,positive,False
+943,"Build a aspect_term with aspect_term like aspect_term, aspect_term and aspect_term.",side orders,neutral,positive,False
+944,"Build a aspect_term with aspect_term like aspect_term, aspect_term and aspect_term.",Amazin' Greens salads,neutral,positive,False
+945,"Build a aspect_term with aspect_term like aspect_term, aspect_term and aspect_term.",Buffalo Chicken Kickers,neutral,positive,False
+946,"Build a aspect_term with aspect_term like aspect_term, aspect_term and aspect_term.",Cinna Stix,neutral,neutral,True
+947,"Thick aspect_term, aspect_term and aspect_term round out a aspect_term that includes a cool, ultra-thick aspect_term.",fries,neutral,negative,False
+948,"Thick aspect_term, aspect_term and aspect_term round out a aspect_term that includes a cool, ultra-thick aspect_term.",meaty chili,neutral,negative,False
+949,"Thick aspect_term, aspect_term and aspect_term round out a aspect_term that includes a cool, ultra-thick aspect_term.",stuffed baked potatoes,neutral,negative,False
+950,"Thick aspect_term, aspect_term and aspect_term round out a aspect_term that includes a cool, ultra-thick aspect_term.",menu,neutral,positive,False
+951,"Thick aspect_term, aspect_term and aspect_term round out a aspect_term that includes a cool, ultra-thick aspect_term.",chocolate Frosty,positive,positive,True
+952,I always find myself asking the aspect_term to make something bland and different than what is on the aspect_term.,waiter,neutral,negative,False
+953,I always find myself asking the aspect_term to make something bland and different than what is on the aspect_term.,menu,neutral,negative,False
+954,"Good cake BUT: it was not the best aspect_term i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked aspect_term.",cake,negative,negative,True
+955,"Good cake BUT: it was not the best aspect_term i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked aspect_term.",employees,negative,negative,True
+956,"The closest that I got was the aspect_term, but they were out of it that day.",Cherry Marscapone,neutral,negative,False
+957,"The homage to India is most evident in the delectable aspect_term, a aspect_term, while the aspect_term offers a surprisingly sophisticated, fresh take on sweet-and-sour.",roti canai appetizer,positive,positive,True
+958,"The homage to India is most evident in the delectable aspect_term, a aspect_term, while the aspect_term offers a surprisingly sophisticated, fresh take on sweet-and-sour.",fried pancake served with pungent curry dipping sauce,positive,positive,True
+959,"The homage to India is most evident in the delectable aspect_term, a aspect_term, while the aspect_term offers a surprisingly sophisticated, fresh take on sweet-and-sour.",mango chicken,positive,positive,True
+960,"It doesn't look like much on the aspect_term, but the minute you walk inside, it's a whole other aspect_term.",outside,negative,negative,True
+961,"It doesn't look like much on the aspect_term, but the minute you walk inside, it's a whole other aspect_term.",atmosphere,positive,negative,False
+962,The aspect_term we sampled as a aspect_term tasted somewhat thin.,ground chickpea soup,negative,negative,True
+963,The aspect_term we sampled as a aspect_term tasted somewhat thin.,starter,neutral,negative,False
+964,"We requested they re-slice the aspect_term, and it was returned to us in small cheese-like cubes.",sushi,negative,negative,True
+965,"The aspect_term, however, is a peg or two below the aspect_term (horrible aspect_term), and the aspect_term, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the aspect_term) getting loaded for an AC/DC concert or a Knicks game.",service,negative,negative,True
+966,"The aspect_term, however, is a peg or two below the aspect_term (horrible aspect_term), and the aspect_term, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the aspect_term) getting loaded for an AC/DC concert or a Knicks game.",quality of food,positive,negative,False
+967,"The aspect_term, however, is a peg or two below the aspect_term (horrible aspect_term), and the aspect_term, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the aspect_term) getting loaded for an AC/DC concert or a Knicks game.",bartenders,negative,negative,True
+968,"The aspect_term, however, is a peg or two below the aspect_term (horrible aspect_term), and the aspect_term, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the aspect_term) getting loaded for an AC/DC concert or a Knicks game.",clientele,negative,negative,True
+969,"The aspect_term, however, is a peg or two below the aspect_term (horrible aspect_term), and the aspect_term, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the aspect_term) getting loaded for an AC/DC concert or a Knicks game.",staff,negative,negative,True
+970,"If you're in the neighborhood, definitely stop by for a great aspect_term.",meal,positive,positive,True
+971,"Unfortunately, with our show tickets, we didn't have time to sample any aspect_term.",desserts,neutral,neutral,True
+972,Make more aspect_term - perhaps a aspect_term?,tables,negative,neutral,False
+973,Make more aspect_term - perhaps a aspect_term?,rooftop bar,neutral,neutral,True
+974,"The aspect_term was feeling like we was on the Cairo, actually the street is part of that adventure.",decoration,positive,positive,True
+975,"Although small, it has beautiful aspect_term, excellent aspect_term (the aspect_term is delicious - if ya don't mind it a lil salty) and attentive aspect_term.",ambience,positive,positive,True
+976,"Although small, it has beautiful aspect_term, excellent aspect_term (the aspect_term is delicious - if ya don't mind it a lil salty) and attentive aspect_term.",food,positive,positive,True
+977,"Although small, it has beautiful aspect_term, excellent aspect_term (the aspect_term is delicious - if ya don't mind it a lil salty) and attentive aspect_term.",catfish,positive,positive,True
+978,"Although small, it has beautiful aspect_term, excellent aspect_term (the aspect_term is delicious - if ya don't mind it a lil salty) and attentive aspect_term.",service,positive,positive,True
+979,I didn't go there for aspect_term so I can't comment.,food,neutral,neutral,True
+980,"Stick to the items the place does best, aspect_term, aspect_term, aspect_term, aspect_term is good, not great.",brisket,positive,positive,True
+981,"Stick to the items the place does best, aspect_term, aspect_term, aspect_term, aspect_term is good, not great.",ribs,positive,positive,True
+982,"Stick to the items the place does best, aspect_term, aspect_term, aspect_term, aspect_term is good, not great.",wings,positive,negative,False
+983,"Stick to the items the place does best, aspect_term, aspect_term, aspect_term, aspect_term is good, not great.",cajun shrimp,neutral,positive,False
+984,"Hip boutiques and bars on Ludlow add to the artsy, laid-back aspect_term at this Israeli-style takeout and eat-in burger joint.",atmosphere,positive,neutral,False
+985,"Young neighborhood trendies graze at the aspect_term during the day, while chic, art-house drinkers with heavy doses of the munchies pile in late at night.",counter,neutral,neutral,True
+986,Bring your date and a aspect_term!,bottle of wine,neutral,positive,False
+987,"My Chelsea's impressive and creative aspect_term includes modern, Westernized aspect_term such as aspect_term, aspect_term, aspect_term, aspect_term, and aspect_term, to name a few.",menu,positive,positive,True
+988,"My Chelsea's impressive and creative aspect_term includes modern, Westernized aspect_term such as aspect_term, aspect_term, aspect_term, aspect_term, and aspect_term, to name a few.",Japanese dishes,neutral,positive,False
+989,"My Chelsea's impressive and creative aspect_term includes modern, Westernized aspect_term such as aspect_term, aspect_term, aspect_term, aspect_term, and aspect_term, to name a few.",Foie Gras Unagi Napolean,neutral,positive,False
+990,"My Chelsea's impressive and creative aspect_term includes modern, Westernized aspect_term such as aspect_term, aspect_term, aspect_term, aspect_term, and aspect_term, to name a few.",Jap style hamburger steak,neutral,positive,False
+991,"My Chelsea's impressive and creative aspect_term includes modern, Westernized aspect_term such as aspect_term, aspect_term, aspect_term, aspect_term, and aspect_term, to name a few.",spicy cod roe spaghetti,neutral,positive,False
+992,"My Chelsea's impressive and creative aspect_term includes modern, Westernized aspect_term such as aspect_term, aspect_term, aspect_term, aspect_term, and aspect_term, to name a few.",black cod with miso base,neutral,positive,False
+993,"My Chelsea's impressive and creative aspect_term includes modern, Westernized aspect_term such as aspect_term, aspect_term, aspect_term, aspect_term, and aspect_term, to name a few.",rack of lamb in black truffle sauce,neutral,positive,False
+994,"His aspect_term is excellent (and not expensive by NYC standards- no aspect_term over $30, most aspect_term $12 to 14).",food,positive,positive,True
+995,"His aspect_term is excellent (and not expensive by NYC standards- no aspect_term over $30, most aspect_term $12 to 14).",entrees,positive,positive,True
+996,"His aspect_term is excellent (and not expensive by NYC standards- no aspect_term over $30, most aspect_term $12 to 14).",appetizers,positive,positive,True
+997,The aspect_term is consistant and good but how it got name Best Diner In Manhattan is beyond me.,food,positive,positive,True
+998,"The aspect_term was outstanding as well, lots of aspect_term.",pasta primavera,positive,positive,True
+999,"The aspect_term was outstanding as well, lots of aspect_term.",fresh veggies,positive,positive,True
+1000,"don't get me wrong - aspect_term was good, just not fantastic.",sushi,positive,negative,False
+1001,Being Puerto Rican I know a thing or two about aspect_term and this place serves one of the best (I hope Mom doesn't read this!).,flan,positive,positive,True
+1002,"Been to the one in Brooklyn for over 25 years, now I dont have to go over the bridge for the best aspect_term ....Hanx",pizza,positive,positive,True
+1003,Had aspect_term here on a Friday and the aspect_term was great.,dinner,neutral,positive,False
+1004,Had aspect_term here on a Friday and the aspect_term was great.,food,positive,positive,True
+1005,"We recently spent New Year's Eve at the restaurant, and had a great experience, from the aspect_term to the aspect_term.",wine,positive,positive,True
+1006,"We recently spent New Year's Eve at the restaurant, and had a great experience, from the aspect_term to the aspect_term.",dessert menu,positive,positive,True
+1007,"Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up aspect_term and it seems a very relaxing aspect_term; also, the aspect_term looks nice.",takeout,neutral,positive,False
+1008,"Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up aspect_term and it seems a very relaxing aspect_term; also, the aspect_term looks nice.",place,positive,positive,True
+1009,"Highly recommended...  As stated, I haven't dined *in* the restaurant but stopped by there to pick up aspect_term and it seems a very relaxing aspect_term; also, the aspect_term looks nice.",bar,positive,positive,True
+1010,"The aspect_term was fine, a little loud but still nice and romantic.",ambiance,positive,positive,True
+1011,"but, the aspect_term was not very good at all aspect_term includes free aspect_term (nice aspect_term).",filet mignon,negative,positive,False
+1012,"but, the aspect_term was not very good at all aspect_term includes free aspect_term (nice aspect_term).",cocktail hour,positive,positive,True
+1013,"but, the aspect_term was not very good at all aspect_term includes free aspect_term (nice aspect_term).",appetizers,positive,positive,True
+1014,"but, the aspect_term was not very good at all aspect_term includes free aspect_term (nice aspect_term).",non-sushi selection,positive,positive,True
+1015,It took about 2 1/2 hours to be aspect_term our 2 aspect_term.,served,negative,neutral,False
+1016,It took about 2 1/2 hours to be aspect_term our 2 aspect_term.,courses,neutral,neutral,True
+1017,Who said go when the aspect_term is quiet during the day?,place,neutral,positive,False
+1018,Can be a bit busy around peak times because of the aspect_term.,size,negative,negative,True
+1019,"I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little aspect_term with awesome aspect_term and aspect_term.",place,positive,positive,True
+1020,"I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little aspect_term with awesome aspect_term and aspect_term.",chicken tacos,positive,positive,True
+1021,"I was on jury duty, rode my bike up Centre Street on my lunch break and came across this great little aspect_term with awesome aspect_term and aspect_term.",Hibiscus lemonade,positive,positive,True
+1022,good aspect_term to hang out during the day after shopping or to grab a simple aspect_term or classic aspect_term over a aspect_term.,place,positive,positive,True
+1023,good aspect_term to hang out during the day after shopping or to grab a simple aspect_term or classic aspect_term over a aspect_term.,soup,neutral,positive,False
+1024,good aspect_term to hang out during the day after shopping or to grab a simple aspect_term or classic aspect_term over a aspect_term.,french dish,neutral,positive,False
+1025,good aspect_term to hang out during the day after shopping or to grab a simple aspect_term or classic aspect_term over a aspect_term.,glass of wine,neutral,neutral,True
+1026,Very nice touch that very much fits the aspect_term.,place,positive,positive,True
+1027,"However, there is just something so great about being aspect_term, in great landscaping, enjoying a aspect_term that makes going to this aspect_term worthwhile.",outdoors,positive,positive,True
+1028,"However, there is just something so great about being aspect_term, in great landscaping, enjoying a aspect_term that makes going to this aspect_term worthwhile.",casual drink,positive,positive,True
+1029,"However, there is just something so great about being aspect_term, in great landscaping, enjoying a aspect_term that makes going to this aspect_term worthwhile.",place,positive,positive,True
+1030,We were seated promptly in close proximity to the aspect_term.,dance floor,neutral,neutral,True
+1031,"If you are here as a aspect_term, hop in a cab and take the extra 10 minutes to go to the uptown location.",pre-show meal,neutral,positive,False
+1032,"The comments about aspect_term is correct (below) but the other aspect_term, including the aspect_term and many of the aspect_term were quite good.",fried foods,negative,neutral,False
+1033,"The comments about aspect_term is correct (below) but the other aspect_term, including the aspect_term and many of the aspect_term were quite good.",dishes,positive,positive,True
+1034,"The comments about aspect_term is correct (below) but the other aspect_term, including the aspect_term and many of the aspect_term were quite good.",lamb entree,positive,positive,True
+1035,"The comments about aspect_term is correct (below) but the other aspect_term, including the aspect_term and many of the aspect_term were quite good.",salads (avocado shrimp),positive,positive,True
+1036,"Slow aspect_term, but when you're hanging around with groups of 10 or 20, who really notices?",service,negative,negative,True
+1037,The aspect_term is excellent (very fresh) with aspect_term.,sauce,positive,positive,True
+1038,The aspect_term is excellent (very fresh) with aspect_term.,dabs of real mozzarella,neutral,positive,False
+1039,"Don't ever bother - the aspect_term were awful, but it was the aspect_term who work there that really made this the worst experience at aspect_term.",drinks,negative,negative,True
+1040,"Don't ever bother - the aspect_term were awful, but it was the aspect_term who work there that really made this the worst experience at aspect_term.",people,negative,negative,True
+1041,"Don't ever bother - the aspect_term were awful, but it was the aspect_term who work there that really made this the worst experience at aspect_term.",dining,negative,negative,True
+1042,"The aspect_term is a little plain, but it's difficult to make such a small aspect_term exciting and I would not suggest that as a reason not to go.",room,negative,negative,True
+1043,"The aspect_term is a little plain, but it's difficult to make such a small aspect_term exciting and I would not suggest that as a reason not to go.",place,negative,negative,True
+1044,aspect_term even outside of restaurant week were great.,Prices,positive,positive,True
+1045,"A small, aspect_term makes for a private, comfortable aspect_term to study alone or meet up with friends.",outdoor eating area,positive,positive,True
+1046,"A small, aspect_term makes for a private, comfortable aspect_term to study alone or meet up with friends.",space,positive,positive,True
+1047,"And all the aspect_term are cute too, which is always nice.",[female] servers,positive,positive,True
+1048,"The best aspect_term, a aspect_term, isn't particularly Hawaiian, but it's a small world when it comes to aspect_term.",dessert,positive,positive,True
+1049,"The best aspect_term, a aspect_term, isn't particularly Hawaiian, but it's a small world when it comes to aspect_term.",chocolate and peanut butter tart,positive,positive,True
+1050,"The best aspect_term, a aspect_term, isn't particularly Hawaiian, but it's a small world when it comes to aspect_term.",sweets,neutral,neutral,True
+1051,"for an aspect_term, their aspect_term is a winner.",appetizer,neutral,neutral,True
+1052,"for an aspect_term, their aspect_term is a winner.",calamari,positive,neutral,False
+1053,Satay is one of those favorite haunts on Washington where the aspect_term and aspect_term is always on the money.,service,positive,positive,True
+1054,Satay is one of those favorite haunts on Washington where the aspect_term and aspect_term is always on the money.,food,positive,positive,True
+1055,After aspect_term I heard aspect_term playing and discovered that there is a aspect_term downstairs.,dinner,neutral,neutral,True
+1056,After aspect_term I heard aspect_term playing and discovered that there is a aspect_term downstairs.,music,neutral,neutral,True
+1057,After aspect_term I heard aspect_term playing and discovered that there is a aspect_term downstairs.,lounge,neutral,neutral,True
+1058,"The aspect_term is a gorgeous, aspect_term and the aspect_term perfect for a aspect_term.",room,positive,positive,True
+1059,"The aspect_term is a gorgeous, aspect_term and the aspect_term perfect for a aspect_term.",bi-level space,positive,positive,True
+1060,"The aspect_term is a gorgeous, aspect_term and the aspect_term perfect for a aspect_term.",long bar,positive,positive,True
+1061,"The aspect_term is a gorgeous, aspect_term and the aspect_term perfect for a aspect_term.",drink,neutral,positive,False
+1062,"Two complaints- their aspect_term stinks, it would be nice to get some aspect_term on the aspect_term.",appetizer selection,negative,negative,True
+1063,"Two complaints- their aspect_term stinks, it would be nice to get some aspect_term on the aspect_term.",mozzarella sticks,neutral,neutral,True
+1064,"Two complaints- their aspect_term stinks, it would be nice to get some aspect_term on the aspect_term.",menu,negative,neutral,False
+1065,I was especially impressed during the bday party when the aspect_term went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly aspect_term to a 15 person party.,waitstaff,positive,positive,True
+1066,I was especially impressed during the bday party when the aspect_term went above and beyond in helping me decorate and bring out a bday cake as well as offering prompt and friendly aspect_term to a 15 person party.,service,positive,positive,True
+1067,The aspect_term were nondescript combinations with aspect_term.,chicken and falafel platters,neutral,negative,False
+1068,The aspect_term were nondescript combinations with aspect_term.,fresh leaf salad,neutral,negative,False
+1069,"The aspect_term takes you to that place, the place many dream of.",atmosphere,positive,positive,True
+1070,"several times and put up with the aspect_term' bad manners, knowing that their job isn't easy.",waiters,negative,negative,True
+1071,"The service is great (maybe even borderline nagging but at least you get attention), the aspect_term are excellent and the aspect_term is so very good...",desserts,positive,positive,True
+1072,"The service is great (maybe even borderline nagging but at least you get attention), the aspect_term are excellent and the aspect_term is so very good...",coffee,positive,positive,True
+1073,They are aspect_term on aspect_term and are to die for.,served,neutral,neutral,True
+1074,They are aspect_term on aspect_term and are to die for.,Focacchia bread,neutral,neutral,True
+1075,"While the aspect_term are a little big for me, the aspect_term are the best I have ever had!",smoothies,negative,positive,False
+1076,"While the aspect_term are a little big for me, the aspect_term are the best I have ever had!",fresh juices,positive,positive,True
+1077,"The food is just OKAY, and it's almost not worth going unless you're getting the aspect_term, which is the only aspect_term that's really good.",pialla,positive,negative,False
+1078,"The food is just OKAY, and it's almost not worth going unless you're getting the aspect_term, which is the only aspect_term that's really good.",dish,positive,positive,True
+1079,"The guac is fresh, yet lacking aspect_term, we like to add our aspect_term into it.",flavor,negative,negative,True
+1080,"The guac is fresh, yet lacking aspect_term, we like to add our aspect_term into it.",fresh salsa,neutral,negative,False
+1081,"The aspect_term has a few creative items,they were smart enough to keep some of the old favorites (but they raised the aspect_term), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.",new menu,positive,positive,True
+1082,"The aspect_term has a few creative items,they were smart enough to keep some of the old favorites (but they raised the aspect_term), the staff is friendly most of the time, but I must agree with the person that wrote about their favorite words: No, can't, sorry..., boy, they won't bend the rules for anyone.",prices,negative,positive,False
+1083,It' only open for aspect_term but the aspect_term is so good!,lunch,neutral,negative,False
+1084,It' only open for aspect_term but the aspect_term is so good!,food,positive,positive,True
+1085,If you like aspect_term and/or aspect_term you will love this place though it is not limited to just these things.,seafood,positive,negative,False
+1086,If you like aspect_term and/or aspect_term you will love this place though it is not limited to just these things.,Greek food,positive,negative,False
+1087,""" The aspect_term includes aspect_term -- aspect_term, aspect_term and aspect_term -- and even a aspect_term for those black sheep known as ""vegetarians.",menu,neutral,positive,False
+1088,""" The aspect_term includes aspect_term -- aspect_term, aspect_term and aspect_term -- and even a aspect_term for those black sheep known as ""vegetarians.",pub fare,neutral,positive,False
+1089,""" The aspect_term includes aspect_term -- aspect_term, aspect_term and aspect_term -- and even a aspect_term for those black sheep known as ""vegetarians.",burgers,neutral,positive,False
+1090,""" The aspect_term includes aspect_term -- aspect_term, aspect_term and aspect_term -- and even a aspect_term for those black sheep known as ""vegetarians.",steaks,neutral,positive,False
+1091,""" The aspect_term includes aspect_term -- aspect_term, aspect_term and aspect_term -- and even a aspect_term for those black sheep known as ""vegetarians.",shepherds pie,neutral,positive,False
+1092,""" The aspect_term includes aspect_term -- aspect_term, aspect_term and aspect_term -- and even a aspect_term for those black sheep known as ""vegetarians.",portabella lasagna,neutral,neutral,True
+1093,How can they survive serving mediocre aspect_term at exorbitant aspect_term?!,food,neutral,negative,False
+1094,How can they survive serving mediocre aspect_term at exorbitant aspect_term?!,prices,negative,negative,True
+1095,The aspect_term was mediocre and the aspect_term was severely slow.,food,neutral,negative,False
+1096,The aspect_term was mediocre and the aspect_term was severely slow.,service,negative,negative,True
+1097,i have eaten here on a different occasion - the aspect_term is mediocre for the aspect_term.,food,neutral,neutral,True
+1098,i have eaten here on a different occasion - the aspect_term is mediocre for the aspect_term.,prices,negative,neutral,False
+1099,I'm looking forward to going back soon and eventually trying most everything on the aspect_term!,menu,positive,positive,True
+1100,I just had my first visit to this place and can't wait to go back and slowly work my way through the aspect_term.,menu,neutral,neutral,True
+1101,I asked repeatedly what the status of the aspect_term was and was pretty much grunted at by the unbelievably rude aspect_term.,meal,neutral,negative,False
+1102,I asked repeatedly what the status of the aspect_term was and was pretty much grunted at by the unbelievably rude aspect_term.,waiter,negative,negative,True
+1103,I stopped by for some aspect_term today and had the aspect_term and some aspect_term.,brunch,neutral,neutral,True
+1104,I stopped by for some aspect_term today and had the aspect_term and some aspect_term.,vegan cranberry pancakes,neutral,neutral,True
+1105,I stopped by for some aspect_term today and had the aspect_term and some aspect_term.,rice milk,neutral,neutral,True
+1106,Sweet Irish aspect_term is always happy and able to bring a smile to my friends a my face.,bartender,positive,positive,True
+1107,Its good to go there for aspect_term if you don't want to get drunk because you'll be lucky if you can get one aspect_term an hour the aspect_term is so bad.,drinks,neutral,negative,False
+1108,Its good to go there for aspect_term if you don't want to get drunk because you'll be lucky if you can get one aspect_term an hour the aspect_term is so bad.,drink,neutral,negative,False
+1109,Its good to go there for aspect_term if you don't want to get drunk because you'll be lucky if you can get one aspect_term an hour the aspect_term is so bad.,service,negative,negative,True
+1110,"Anyway, the aspect_term was fake.",owner,negative,negative,True
+1111,aspect_term is pleasant and entertaining.,Owner,positive,positive,True
+1112,"I have never in my life sent back aspect_term before, but I simply had to, and the aspect_term argued with me over this.",food,negative,neutral,False
+1113,"I have never in my life sent back aspect_term before, but I simply had to, and the aspect_term argued with me over this.",waiter,negative,neutral,False
+1114,"Although the restaurant itself is nice, I prefer not to go for the aspect_term.",food,negative,positive,False
+1115,"aspect_term -- aspect_term, aspect_term, and aspect_term taste excellent when on aspect_term.",Creamy appetizers,positive,positive,True
+1116,"aspect_term -- aspect_term, aspect_term, and aspect_term taste excellent when on aspect_term.",taramasalata,positive,positive,True
+1117,"aspect_term -- aspect_term, aspect_term, and aspect_term taste excellent when on aspect_term.",eggplant salad,positive,positive,True
+1118,"aspect_term -- aspect_term, aspect_term, and aspect_term taste excellent when on aspect_term.","Greek yogurt (with cuccumber, dill, and garlic)",positive,positive,True
+1119,"aspect_term -- aspect_term, aspect_term, and aspect_term taste excellent when on aspect_term.",warm pitas,neutral,positive,False
