@@ -1,6 +1,6 @@
 # DMMN-SDCM
 
-A TensorFlow implementation for "Deep Mask Memory Network with Semantic Dependency and Context Moment for Aspect Level Sentiment Classification" (IJCAI 2019)
+A Pytorch implementation for "Deep Mask Memory Network with Semantic Dependency and Context Moment for Aspect Level Sentiment Classification" (IJCAI 2019)
 
 ## Citation
 
